@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="350"
+   width="150"
    height="100"
-   viewBox="0 0 92.604165 26.458333"
+   viewBox="0 0 39.6875 26.458333"
    version="1.1"
    id="svg1"
    inkscape:export-filename="..\..\..\..\Users\tomoo\OneDrive\www\kamonegi\img\kamonegikun_title.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="ホームページタイトル_outline_2.svg"
+   sodipodi:docname="ホームページタイトル_右_outline - コピー.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:export-bgcolor="#ffff00ff"
-     inkscape:zoom="3.9257126"
-     inkscape:cx="127.36541"
-     inkscape:cy="61.262763"
+     inkscape:zoom="2.775898"
+     inkscape:cx="116.71899"
+     inkscape:cy="52.055227"
      inkscape:window-width="1800"
      inkscape:window-height="1106"
      inkscape:window-x="-11"
@@ -254,7 +254,7 @@
        inkscape:export-filename="..\..\..\..\Users\tomoo\OneDrive\www\kamonegi\img\kamonegikun\kamonegikun_rev300_color.jpg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       transform="matrix(0.00602805,0,0,0.00602805,50.135982,-19.85434)">
+       transform="matrix(0.00602805,0,0,0.00602805,-3.309876,-19.85434)">
       <path
          fill="url(#_grad_9_1_002)"
          fill-rule="evenodd"
@@ -314,7 +314,7 @@
        id="g21"
        inkscape:label="カモライン"
        style="display:inline"
-       transform="matrix(0.00602805,0,0,0.00602805,50.135982,-19.85434)">
+       transform="matrix(0.00602805,0,0,0.00602805,-3.309876,-19.85434)">
       <path
          fill="none"
          stroke="#663300"
@@ -378,7 +378,7 @@
        jsh:ry="0"
        style="display:inline"
        inkscape:label="右2"
-       transform="matrix(0.00602805,0,0,0.00602805,52.246694,-15.126348)">
+       transform="matrix(0.00602805,0,0,0.00602805,-1.1991652,-15.126348)">
       <g
          id="g19"
          inkscape:label="右2色">
@@ -492,7 +492,7 @@
        jsh:ry="0"
        style="display:inline"
        inkscape:label="右1"
-       transform="matrix(0.00602805,0,0,0.00602805,52.246694,-15.126348)">
+       transform="matrix(0.00602805,0,0,0.00602805,-1.1991652,-15.126348)">
       <g
          id="g16"
          inkscape:label="右1色">
@@ -606,7 +606,7 @@
        jsh:ry="0"
        style="display:inline"
        inkscape:label="左4"
-       transform="matrix(0.00602805,0,0,0.00602805,52.246694,-15.126348)">
+       transform="matrix(0.00602805,0,0,0.00602805,-1.1991652,-15.126348)">
       <g
          id="g13"
          inkscape:label="左4色"
@@ -721,7 +721,7 @@
        jsh:ry="0"
        style="display:inline"
        inkscape:label="左3"
-       transform="matrix(0.00602805,0,0,0.00602805,52.246694,-15.126348)">
+       transform="matrix(0.00602805,0,0,0.00602805,-1.1991652,-15.126348)">
       <g
          id="g11"
          inkscape:label="左3色">
@@ -838,7 +838,7 @@
        jsh:ry="0"
        style="display:inline"
        inkscape:label="左2"
-       transform="matrix(0.00602805,0,0,0.00602805,52.246694,-15.126348)">
+       transform="matrix(0.00602805,0,0,0.00602805,-1.1991652,-15.126348)">
       <g
          id="g7"
          inkscape:label="左2色"
@@ -960,7 +960,7 @@
        jsh:ry="0"
        style="display:inline"
        inkscape:label="左1"
-       transform="matrix(0.00602805,0,0,0.00602805,52.246694,-15.126348)">
+       transform="matrix(0.00602805,0,0,0.00602805,-1.1991652,-15.126348)">
       <g
          id="g5"
          inkscape:label="左1色"
@@ -1077,7 +1077,7 @@
        jsh:ry="0"
        style="display:inline"
        inkscape:label="鍋（上）"
-       transform="matrix(0.00602805,0,0,0.00602805,52.246694,-15.126348)">
+       transform="matrix(0.00602805,0,0,0.00602805,-1.1991652,-15.126348)">
       <g
          id="Fig_8_0"
          jsh:type="gradation"
@@ -1226,26 +1226,6 @@
            style="display:inline;stroke:#000000"
            inkscape:label="鍋（上）穴ライン" />
       </g>
-    </g>
-    <path
-       style="font-size:7.05556px;line-height:8px;font-family:'site seeing shop';-inkscape-font-specification:'site seeing shop';letter-spacing:0.79375px;word-spacing:0.41275px;fill:#ffffff;stroke:#008000;stroke-width:0.8;stroke-dasharray:none;paint-order:stroke fill markers"
-       d="m 8.7470988,24.803654 v -4.072105 h -1.867243 v -1.267796 h 1.867243 v -1.715659 h 1.6398662 v 1.715659 h 3.582902 v 5.339901 h -1.605416 v -4.072105 h -1.977486 v 4.072105 z m 9.1515572,0.03445 v -3.603572 h -3.183271 v -1.205784 h 3.183271 v -1.04731 h -3.183271 v -1.205784 h 7.889274 v 1.205784 h -3.562231 v 1.04731 h 3.562231 v 1.205784 h -3.562231 v 2.397788 h 3.562231 v 1.205784 z m 10.095513,-0.04823 v -2.439129 h 1.329808 v -2.47358 h -0.985298 l -2.259984,2.225533 v 2.638945 h -1.274687 v -1.0542 H 24.51462 l -0.227376,0.172255 -0.916396,-0.992189 q 0.179145,-0.213596 0.523655,-0.530545 0.3514,-0.316949 0.675239,-0.682129 0.330729,-0.36518 0.254937,-0.861274 -0.0689,-0.502985 0,-1.088651 h -1.274686 v -1.378039 h 1.254015 v -0.585667 h 1.274687 v 0.585667 h 0.392741 v 1.350478 l 1.295357,-1.178223 h 2.84565 v 3.851619 h 0.778592 v 1.384929 h -0.778592 v 1.0542 z m 6.367918,0.282498 -2.204862,-2.266874 1.350478,-1.38493 h -1.254015 v -1.453831 h 1.405599 v -0.427192 h -1.384929 v -1.460721 h 1.384929 v -0.296279 h 1.41249 v 0.296279 h 1.426271 v 1.460721 h -1.426271 v 0.427192 h 1.4056 v 1.453831 h -1.4056 q 0.02067,0.234267 0,0.454753 -0.02067,0.213596 -0.213596,0.35829 -0.192925,0.144695 -0.344509,0.303169 -0.151585,0.158475 -0.275608,0.33762 l 1.136882,1.192003 z m 2.287545,-5.960019 v -1.453831 h 0.757922 v 1.453831 z m 0.923286,0 v -1.453831 h 0.730361 v 1.453831 z m 4.976099,5.615509 -3.451988,-3.52089 3.451988,-3.389976 0.964627,1.005969 -2.384008,2.452909 2.425349,2.487361 z m 2.412944,-0.0069 v -6.972878 h 1.564075 v 4.93338 h 0.04134 l 2.163521,-2.101509 q 0.206706,0.268717 0.516765,0.502984 0.316949,0.227376 0.406521,0.551215 0.09646,0.316949 0.05512,0.69591 -0.04134,0.372071 0,0.723471 h 1.143772 v 1.626086 h -2.728517 v -1.502063 h -0.04134 q -0.33073,0.316949 -0.654569,0.668349 -0.323839,0.3514 -0.668349,0.654569 -0.337619,0.303168 -0.847494,0.227376 -0.509874,-0.0689 -0.950847,-0.0069 z"
-       id="text1"
-       inkscape:label="カモねぎくん"
-       aria-label="カモねぎくん" />
-    <g
-       id="text59"
-       style="font-size:7.05556px;line-height:8px;font-family:'AR PShounanShinpitsuGyosyoJIS';-inkscape-font-specification:'AR PShounanShinpitsuGyosyoJIS, Normal';letter-spacing:0px;word-spacing:0.41275px;fill:#ffffff;stroke:#008000;stroke-width:0.8;stroke-dasharray:none;paint-order:stroke fill markers"
-       inkscape:label="かもん！"
-       aria-label="かもん！">
-      <path
-         style="letter-spacing:0.79375px;fill:#ffffff;stroke:#008000;stroke-width:0.8;stroke-dasharray:none"
-         d="m 18.055466,16.254119 v -4.650882 h -1.577854 v -1.474502 h 1.577854 V 9.2261193 h 1.433161 v 0.9026157 q 0.468533,-0.02067 0.943957,0.0069 0.482314,0.02067 0.792372,0.420302 0.316949,0.399631 0.668349,0.7028 0.358291,0.303169 0.68902,0.668349 l 0.01378,0.02067 v 4.306373 h -1.42627 v -3.631133 q -0.172255,-0.199816 -0.372071,-0.365181 -0.192925,-0.172255 -0.36518,-0.385851 -0.172255,-0.220486 -0.420302,-0.254937 -0.248047,-0.03445 -0.523655,-0.01378 v 4.650882 z m 4.92649,-4.327043 -2.156631,-2.2048627 1.06109,-0.9990783 2.11529,2.211753 z m 4.700491,4.306372 -0.964627,-0.923286 V 13.318895 H 24.857467 V 12.07177 H 26.71782 V 11.437872 H 24.857467 V 10.190747 H 26.71782 V 9.2192291 h 1.605415 v 0.9715179 h 2.501141 v 1.247125 h -2.501141 v 0.633898 h 2.501141 v 1.247125 h -2.501141 v 1.502063 q 0.06201,0.282498 1.019749,0.165365 l 0.613228,-0.558106 0.964627,1.040419 -0.764812,0.764812 z m 4.652259,-0.06201 V 9.1985585 h 1.564075 v 4.9333795 h 0.04134 l 2.163521,-2.101509 q 0.206706,0.268717 0.516765,0.502984 0.316949,0.227377 0.406521,0.551216 0.09646,0.316949 0.05512,0.695909 -0.04134,0.372071 0,0.723471 h 1.143772 v 1.626086 h -2.728517 v -1.502063 h -0.04134 q -0.33073,0.316949 -0.654569,0.668349 -0.323839,0.3514 -0.668349,0.654569 -0.337619,0.303169 -0.847494,0.227376 -0.509874,-0.0689 -0.950847,-0.0069 z"
-         id="path1" />
-      <path
-         style="font-family:'site seeing shop';-inkscape-font-specification:'site seeing shop';fill:#ffffff;stroke:#008000;stroke-width:0.8;stroke-dasharray:none"
-         d="m 39.605241,16.254119 v -1.626087 h 1.605415 v 1.626087 z m 0,-2.404679 V 9.1985585 h 1.605415 V 13.84944 Z"
-         id="path2" />
     </g>
   </g>
 </svg>

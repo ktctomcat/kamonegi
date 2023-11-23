@@ -32,9 +32,15 @@ h3 {
 #heder {
   color: #ffffff;
   background-color: #ffff00;
-  background-image: url(../img/kamonegikun_title.svg);
-  background-position: right top;
-  background-repeat: no-repeat;
+  background-image: 
+    url(../img/kamonegikun_title_right.svg),
+    url(../img/kamonegikun_title_left.svg);
+  background-position:
+    right top,
+    left top;
+  background-repeat:
+    no-repeat,
+    no-repeat;
   text-align: left;
   margin: 0;
   padding: 0;
