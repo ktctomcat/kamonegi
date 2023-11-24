@@ -29,7 +29,7 @@ h3 {
   padding: 5px;
 }
 
-#heder {
+.heder {
   color: #ffffff;
   background-color: #ffff00;
   background-image: 
@@ -47,16 +47,16 @@ h3 {
   height: 100px;
 }
 
-#heder p {
+.heder p {
   display: none;
 }
 
-#heder ul {
+.heder ul {
   margin: 0;
   padding: 0.5em;
 }
 
-#heder ul li {
+.heder ul li {
   margin: 0;
   padding: 0;
   padding-left: 0.5em;
@@ -68,17 +68,17 @@ h3 {
   list-style: none;
 }
 
-#heder li a {
+.heder li a {
   color: #333333;
   text-decoration: none;
 }
 
-#heder li a:hover {
+.heder li a:hover {
   color: #ffffff;
   background-color: #00cc00;
 }
 
-#navi {
+.navi {
   color: #ffffff;
   background-color: #00cc00;
   margin: 0;
@@ -86,20 +86,20 @@ h3 {
   padding-left: 1em;
 }
 
-#navi p {
+.navi p {
   line-height: 200%;
   margin: 0;
   padding: 0;
 }
 
-#main {
+.main {
   background-image: url("../img/kakudayama_back.svg");
   background-position: left bottom;
   background-repeat: no-repeat;
   padding: 1em;
 }
 
-#footer {
+.footer {
   color: #ffffff;
   background-color: #00cc00;
   text-align: center;
@@ -134,39 +134,39 @@ iframe {
     background-color: #87cefa;
   }
 
-  #heder {
+  .heder {
     background-color: #0099ff;
     background-image: url(../img/title.jpg);
     background-position: left top;
     text-align: right;
   }
 
-  #heder ul li {
+  .heder ul li {
     border-right: none;
     border-left: 1px;
     border-left-style: solid;
     border-color: #ffffff;
   }
 
-  #heder li a {
+  .heder li a {
     color: #ffffff;
   }
 
-  #heder li a:hover {
+  .heder li a:hover {
     color: #0099ff;
     background-color: #ffffff;
   }
 
-  #navi {
+  .navi {
     background-color: #0066cc;
   }
 
-  #main {
+  .main {
     background-image: url(../img/back.jpg);
     background-position: right top;
   }
 
-  #footer {
+  .footer {
     background-color: #0066cc;
   }
 
