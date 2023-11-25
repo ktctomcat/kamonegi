@@ -5,7 +5,7 @@
    viewBox="-69 0 7307.2832 8144.6033"
    version="1.1"
    id="svg518"
-   sodipodi:docname="かもねぎ君_rev300_1_カラー.svg"
+   sodipodi:docname="かもねぎ君_rev300_1_color.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,14 +24,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.75563439"
-     inkscape:cx="324.23088"
-     inkscape:cy="520.75449"
+     inkscape:cx="431.42557"
+     inkscape:cy="413.55979"
      inkscape:window-width="1800"
      inkscape:window-height="1106"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showguides="true" />
   <defs
      id="defs262">
@@ -1189,7 +1189,7 @@
        jsh:ry="0"
        style="display:inline"
        inkscape:label="鍋（上）"
-       transform="translate(350.14729,784.32992)">
+       transform="translate(392.48063,784.32992)">
       <g
          id="Fig_8_0"
          jsh:type="gradation"
