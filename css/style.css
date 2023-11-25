@@ -101,6 +101,8 @@ h3 {
   margin:0;
   border: 0;
   padding: 0;
+  position: sticky;
+  top: 0;
 }
 
 .gnav ul{
