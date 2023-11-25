@@ -112,7 +112,7 @@ h3 {
 }
 
 .gnav_wrapper li{
-  /* padding: 0.5em 0.5em; */
+  padding: 0.2em 0.2em;
   border-left: #ffffff 1px solid;
   width: calc(100%/3);
   text-align: center;
