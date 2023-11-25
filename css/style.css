@@ -3,6 +3,7 @@ body {
   background-color: #ffffff;
   line-height: 150%;
   margin: 0;
+  border: 0;
   padding: 0;
 }
 
@@ -42,6 +43,7 @@ h3 {
     no-repeat,
     no-repeat;
   margin: 0;
+  border: 0;
   padding: 0;
   height: 100px;
 }
@@ -96,8 +98,9 @@ h3 {
 .gnav{
   width: 100%;
   background-color: #00cc00;
-  padding: 0;
   margin:0;
+  border: 0;
+  padding: 0;
 }
 
 .gnav ul{
@@ -147,6 +150,8 @@ h3 {
   background-repeat:
     no-repeat,
     repeat-y;
+  margin: 0;
+  border: 0;
   padding: 1em;
 }
 
@@ -155,6 +160,7 @@ h3 {
   background-color: #00cc00;
   text-align: center;
   margin: 0;
+  border: 0;
   padding: 0.5em;
 }
 
