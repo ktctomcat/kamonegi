@@ -138,9 +138,15 @@ h3 {
 }
 
 .main {
-  background-image: url("../img/kakudayama_back.svg");
-  background-position: left bottom;
-  background-repeat: no-repeat;
+  background-image:
+    url(../img/kakudayama_back.svg),
+    url(../img/kamonegikun_footprints.svg);
+  background-position:
+    left bottom,
+    right top;
+  background-repeat:
+    no-repeat,
+    repeat-y;
   padding: 1em;
 }
 
