@@ -142,6 +142,12 @@ h3 {
   color: #333333;
 }
 
+.main_wrapper{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
 .main {
   background-image:
     url(../img/kakudayama_back.svg),
@@ -219,19 +225,23 @@ iframe {
 
   .gnav{
     background-color: #0066cc;
-}
+  }
 
-.gnav ul{
-    margin: 0; /* 0は左寄せ、センターリングはauto */
-}
+  .gnav ul{
+      margin: 0; /* 0は左寄せ、センターリングはauto */
+  }
 
-.gnav_wrapper li:hover{
+  .gnav_wrapper li:hover{
     background-color: #0099ff;
-}
+  }
 
   .main {
     background-image: url(../img/back.jpg);
     background-position: right top;
+  }
+
+  .main_wrapper{
+    width: 800px;
   }
 
   .footer {
