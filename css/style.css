@@ -241,7 +241,11 @@ iframe {
   }
 
   .main_wrapper{
-    width: 800px;
+    width: 100%;
+  }
+
+  .main_wrapper p{
+    width: 800px; /* PC表示での最大幅 */
   }
 
   .footer {
