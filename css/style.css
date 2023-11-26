@@ -111,7 +111,7 @@ h3 {
 }
 
 .gnav_wrapper{
-  max-width: 400px;
+  max-width: 600px; /* ナビゲーション部分の幅 */
   margin: auto;
   display: flex;
 }
@@ -119,7 +119,7 @@ h3 {
 .gnav_wrapper li{
   padding: 0.2em 0.2em;
   border-left: #ffffff 1px solid;
-  width: calc(100%/3);
+  width: calc(100%/4);
   text-align: center;
   list-style:none;
 }
@@ -175,7 +175,7 @@ iframe {
   aspect-ratio: 16/9;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 800px) {
   a:hover {
     color: #ffffff;
     background-color: #0099ff;
@@ -216,12 +216,6 @@ iframe {
     background-color: #ffffff;
   }
 
-  /*
-  .navi {
-    background-color: #0066cc;
-  }
-  */
-
   .gnav{
     background-color: #0066cc;
 }
@@ -244,10 +238,10 @@ iframe {
   }
 
   img {
-    width: 600px;
+    width: 800px; /* PC表示での最大幅 */
   }
 
   iframe {
-    width: 600px;
+    width: 800px; /* PC表示での最大幅 */
   }
 }
