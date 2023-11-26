@@ -175,7 +175,7 @@ iframe {
   aspect-ratio: 16/9;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1024px) {
   a:hover {
     color: #ffffff;
     background-color: #0099ff;
@@ -238,10 +238,10 @@ iframe {
   }
 
   img {
-    width: 800px; /* PC表示での最大幅 */
+    width: 1024px; /* PC表示での最大幅 */
   }
 
   iframe {
-    width: 800px; /* PC表示での最大幅 */
+    width: 1024px; /* PC表示での最大幅 */
   }
 }
