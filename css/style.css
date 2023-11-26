@@ -111,7 +111,7 @@ h3 {
 }
 
 .gnav_wrapper{
-  max-width: 500px; /* ナビゲーション部分の幅 */
+  max-width: 400px; /* ナビゲーション部分の幅 */
   margin: auto;
   display: flex;
 }
@@ -175,7 +175,8 @@ iframe {
   aspect-ratio: 16/9;
 }
 
-@media screen and (min-width: 1024px) {
+/* 800pxを超えると適用 */
+@media screen and (min-width: 801px) {
   a:hover {
     color: #ffffff;
     background-color: #0099ff;
@@ -238,10 +239,10 @@ iframe {
   }
 
   img {
-    width: 1024px; /* PC表示での最大幅 */
+    width: 800px; /* PC表示での最大幅 */
   }
 
   iframe {
-    width: 1024px; /* PC表示での最大幅 */
+    width: 800px; /* PC表示での最大幅 */
   }
 }
