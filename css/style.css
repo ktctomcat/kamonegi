@@ -111,7 +111,7 @@ h3 {
 }
 
 .gnav_wrapper{
-  max-width: 600px; /* ナビゲーション部分の幅 */
+  max-width: 500px; /* ナビゲーション部分の幅 */
   margin: auto;
   display: flex;
 }
