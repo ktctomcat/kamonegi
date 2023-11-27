@@ -176,6 +176,13 @@ img {
   width: 100%;
 }
 
+.side {
+  display:flex;
+}
+.side img{
+  width: 50%;
+}
+
 iframe {
   width: 100%;
   aspect-ratio: 16/9;
@@ -254,6 +261,10 @@ iframe {
 
   img {
     width: 800px; /* PC表示での最大幅 */
+  }
+
+  .side img{
+    width: 400px;
   }
 
   iframe {
