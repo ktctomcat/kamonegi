@@ -182,16 +182,17 @@ img {
   width: 100%;
 }
 
-iframe {
-  width: 100%;
-  aspect-ratio: 16/9;
-}
-
 .side { /* 画像を横並びに表示する場合 */
   display:flex;
 }
+
 .side img{ /* 画像を横並びに表示する場合は50% */
   width: 50%;
+}
+
+iframe {
+  width: 100%;
+  aspect-ratio: 16/9;
 }
 
 /* 800pxを超えると適用 */
@@ -269,12 +270,11 @@ iframe {
     width: 800px; /* PC表示での最大幅 */
   }
 
-  iframe {
-    width: 800px; /* PC表示での最大幅 */
-  }
-
   .side img{ /* PC表示で画像を横並びにする場合は最大幅の半分 */
     width: 400px;
   }
 
+  iframe {
+    width: 800px; /* PC表示での最大幅 */
+  }
 }
