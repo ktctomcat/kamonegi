@@ -97,6 +97,7 @@ h3 {
 */
 
 .gnav{
+  display: none;
   width: 100%;
   background-color: #00cc00;
   margin:0;
@@ -165,6 +166,7 @@ h3 {
 }
 
 .footer {
+  display: none;
   color: #ffffff;
   background-color: #00cc00;
   text-align: center;
