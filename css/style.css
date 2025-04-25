@@ -31,6 +31,7 @@ h3 {
 }
 
 .header {
+  display: none;
   color: #ffffff;
   background-color: #ffff00;
   background-image: 
