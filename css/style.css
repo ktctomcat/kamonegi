@@ -95,7 +95,7 @@ h3 {
 }
 */
 
-.gnavi{
+.navigate {
   width: 100%;
   background-color: #00cc00;
   margin:0;
@@ -105,18 +105,18 @@ h3 {
   top: 0;
 }
 
-.gnavi ul{
+.navigate ul {
   margin: auto; /* 0は左寄せ、センターリングはauto */
   padding: 0;
 }
 
-.gnavi_wrapper{
+.navigate_wrapper {
   max-width: 400px; /* ナビゲーション部分の幅 */
   margin: auto;
   display: flex;
 }
 
-.gnavi_wrapper li{
+.navigate_wrapper li{
   padding: 0.2em 0.2em;
   border-left: #ffffff 1px solid;
   width: calc(100%/4);
@@ -124,21 +124,21 @@ h3 {
   list-style:none;
 }
 
-.gnavi_wrapper li:last-child{
+.navigate_wrapper li:last-child{
   border-right: #ffffff 1px solid;
 }
 
-.gnavi_wrapper li:hover{
+.navigate_wrapper li:hover{
   color: 333333;
   background-color: #ffff00;
 }
 
-.gnavi_wrapper li a{
+.navigate_wrapper li a{
   color: #ffffff;
   text-decoration: none;
 }
 
-.gnavi_wrapper li a:hover{
+.navigate_wrapper li a:hover{
   color: #333333;
 }
 
@@ -236,15 +236,15 @@ iframe {
     background-color: #ffffff;
   }
 
-  .gnavi{
+  .navigate {
     background-color: #0066cc;
   }
 
-  .gnavi ul{
+  .navigate ul {
       margin: 0; /* 0は左寄せ、センターリングはauto */
   }
 
-  .gnavi_wrapper li:hover{
+  .navigate_wrapper li:hover {
     background-color: #0099ff;
   }
 
@@ -253,11 +253,11 @@ iframe {
     background-position: right top;
   }
 
-  .main_wrapper{
+  .main_wrapper {
     width: 100%;
   }
 
-  .main_wrapper p{
+  .main_wrapper p {
     width: 800px; /* PC表示での最大幅 */
   }
 
@@ -269,7 +269,7 @@ iframe {
     width: 800px; /* PC表示での最大幅 */
   }
 
-  .side img{ /* PC表示で画像を横並びにする場合は最大幅の半分 */
+  .side img { /* PC表示で画像を横並びにする場合は最大幅の半分 */
     width: 400px;
   }
 
