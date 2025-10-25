@@ -30,6 +30,7 @@ h3 {
     padding: 5px;
 }
 
+/* ヘッダー部分 */
 .header {
     color: #ffffff;
     background-color: #ffff00;
@@ -62,6 +63,7 @@ h3 {
     background-color: #00cc00;
 }
 
+/* ナビゲーション部分 */
 .navigate {
     width: 100%;
     background-color: #00cc00;
@@ -86,7 +88,8 @@ h3 {
 }
 
 .navigate_wrapper li {
-    padding: 0.2em 0.2em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
     border-left: #ffffff 1px solid;
     width: calc(100%/4);
     text-align: center;
@@ -130,6 +133,7 @@ h3 {
     display: none;
 }
 
+/* メイン部分 */
 .main {
     background-image:
         url(../img/kakudayama_back.svg),
@@ -149,15 +153,6 @@ h3 {
     margin: 0;
     border: 0;
     padding: 0;
-}
-
-footer {
-    color: #ffffff;
-    background-color: #00cc00;
-    text-align: center;
-    margin: 0;
-    padding: 1em;
-    border: 0;
 }
 
 figure {
@@ -183,6 +178,17 @@ iframe {
     width: 100%;
     aspect-ratio: 16/9;
 }
+
+/* フッター部分 */
+footer {
+    color: #ffffff;
+    background-color: #00cc00;
+    text-align: center;
+    margin: 0;
+    padding: 1em;
+    border: 0;
+}
+
 
 /* 800pxを超えると適用 */
 @media screen and (min-width: 801px) {
