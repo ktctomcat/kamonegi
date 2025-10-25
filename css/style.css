@@ -1,279 +1,291 @@
 body {
-  color: #333333;
-  background-color: #ffffff;
-  line-height: 150%;
-  margin: 0;
-  border: 0;
-  padding: 0;
+    color: #333333;
+    background-color: #ffffff;
+    line-height: 150%;
+    margin: 0;
+    border: 0;
+    padding: 0;
 }
 
 a:hover {
-  color: #333333;
-  background-color: #ffff00;
+    color: #333333;
+    background-color: #ffff00;
 }
 
 h1 {
-  line-height: 120%;
-  color: #00cc00;
+    line-height: 120%;
+    color: #00cc00;
 }
 
 h2 {
-  line-height: 120%;
-  border-bottom-color: #00cc00;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
+    line-height: 120%;
+    border-bottom-color: #00cc00;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
 }
 
 h3 {
-  line-height: 120%;
-  background-color: #ccffcc;
-  padding: 5px;
+    line-height: 120%;
+    background-color: #ccffcc;
+    padding: 5px;
 }
 
 .header {
-  color: #ffffff;
-  background-color: #ffff00;
-  background-image: 
-    url(../img/kamonegikun_title_left.svg), 
-    url(../img/kamonegikun_title_right.svg);
-  background-position:
-    left top,
-    right top;
-  background-repeat:
-    no-repeat,
-    no-repeat;
-  margin: 0;
-  border: 0;
-  padding: 0;
-  height: 100px;
+    color: #ffffff;
+    background-color: #ffff00;
+    background-image:
+        url(../img/kamonegikun_title_left.svg),
+        url(../img/kamonegikun_title_right.svg);
+    background-position:
+        left top,
+        right top;
+    background-repeat:
+        no-repeat,
+        no-repeat;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 100px;
 }
 
 .header p {
-  display: none;
+    display: none;
 }
 
 .header ul {
-  margin: 0;
-  padding: 0.5em;
+    margin: 0;
+    padding: 0.5em;
 }
 
 .header ul li {
-  margin: 0;
-  padding: 0;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-  border-right: 1px;
-  border-right-style: solid;
-  border-color: #333333;
-  display: inline;
-  list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    border-right: 1px;
+    border-right-style: solid;
+    border-color: #333333;
+    display: inline;
+    list-style: none;
 }
 
 .header li a {
-  color: #333333;
-  text-decoration: none;
+    color: #333333;
+    text-decoration: none;
 }
 
 .header li a:hover {
-  color: #ffffff;
-  background-color: #00cc00;
+    color: #ffffff;
+    background-color: #00cc00;
 }
-
-/*
-.navi {
-  color: #ffffff;
-  background-color: #00cc00;
-  margin: 0;
-  padding: 0;
-  padding-left: 1em;
-}
-
-.navi p {
-  line-height: 200%;
-  margin: 0;
-  padding: 0;
-}
-*/
 
 .navigate {
-  width: 100%;
-  background-color: #00cc00;
-  margin:0;
-  border: 0;
-  padding: 0;
-  position: sticky;
-  top: 0;
+    width: 100%;
+    background-color: #00cc00;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    position: sticky;
+    top: 0;
 }
 
 .navigate ul {
-  margin: auto; /* 0は左寄せ、センターリングはauto */
-  padding: 0;
+    margin: auto;
+    /* 0は左寄せ、センターリングはauto */
+    padding: 0;
 }
 
 .navigate_wrapper {
-  max-width: 400px; /* ナビゲーション部分の幅 */
-  margin: auto;
-  display: flex;
+    max-width: 400px;
+    /* ナビゲーション部分の幅 */
+    margin: auto;
+    display: flex;
 }
 
-.navigate_wrapper li{
-  padding: 0.2em 0.2em;
-  border-left: #ffffff 1px solid;
-  width: calc(100%/4);
-  text-align: center;
-  list-style:none;
+.navigate_wrapper li {
+    padding: 0.2em 0.2em;
+    border-left: #ffffff 1px solid;
+    width: calc(100%/4);
+    text-align: center;
+    list-style: none;
 }
 
-.navigate_wrapper li:last-child{
-  border-right: #ffffff 1px solid;
+.navigate_wrapper li:last-child {
+    border-right: #ffffff 1px solid;
 }
 
-.navigate_wrapper li:hover{
-  color: 333333;
-  background-color: #ffff00;
+.navigate_wrapper li:hover {
+    color: 333333;
+    background-color: #ffff00;
 }
 
-.navigate_wrapper li a{
-  color: #ffffff;
-  text-decoration: none;
+.navigate_wrapper li a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
-.navigate_wrapper li a:hover{
-  color: #333333;
+.navigate_wrapper li a:hover {
+    color: #333333;
+}
+
+/* パンくずリスト */
+.breadcrumbs ol {
+    margin: 0;
+    padding: 0;
+}
+
+.breadcrumbs li {
+    display: inline;
+}
+
+.breadcrumbs li::after {
+    content: '>';
+    padding: 0 0.5em;
+}
+
+.breadcrumbs li:last-child::after {
+    display: none;
 }
 
 .main {
-  background-image:
-    url(../img/kakudayama_back.svg),
-    url(../img/kamonegikun_footprints.svg);
-  background-position:
-    left bottom,
-    right top;
-  background-repeat:
-    no-repeat,
-    repeat-y;
-  margin: 0;
-  border: 0;
-  padding: 1em;
+    background-image:
+        url(../img/kakudayama_back.svg),
+        url(../img/kamonegikun_footprints.svg);
+    background-position:
+        left bottom,
+        right top;
+    background-repeat:
+        no-repeat,
+        repeat-y;
+    margin: 0;
+    border: 0;
+    padding: 1em;
 }
 
-.main_wrapper{
-  margin: 0;
-  border: 0;
-  padding: 0;
+.main_wrapper {
+    margin: 0;
+    border: 0;
+    padding: 0;
 }
 
 .footer {
-  color: #ffffff;
-  background-color: #00cc00;
-  text-align: center;
-  margin: 0;
-  padding: 0.2em 0.2em;
-  border: 0;
+    color: #ffffff;
+    background-color: #00cc00;
+    text-align: center;
+    margin: 0;
+    padding: 0.2em 0.2em;
+    border: 0;
 }
 
-figure{
-  margin: 0;
-  display: flex;
+figure {
+    margin: 0;
+    display: flex;
 }
 
 img {
-  width: 100%;
+    width: 100%;
 }
 
-.side { /* 画像を横並びに表示する場合 */
-  display:flex;
+.side {
+    /* 画像を横並びに表示する場合 */
+    display: flex;
 }
 
-.side img{ /* 画像を横並びに表示する場合は50% */
-  width: 50%;
+.side img {
+    /* 画像を横並びに表示する場合は50% */
+    width: 50%;
 }
 
 iframe {
-  width: 100%;
-  aspect-ratio: 16/9;
+    width: 100%;
+    aspect-ratio: 16/9;
 }
 
 /* 800pxを超えると適用 */
 @media screen and (min-width: 801px) {
-  a:hover {
-    color: #ffffff;
-    background-color: #0099ff;
-  }
+    a:hover {
+        color: #ffffff;
+        background-color: #0099ff;
+    }
 
-  h1 {
-    color: #0066cc;
-  }
+    h1 {
+        color: #0066cc;
+    }
 
-  h2 {
-    border-bottom-color: #0066CC;
-  }
+    h2 {
+        border-bottom-color: #0066CC;
+    }
 
-  h3 {
-    background-color: #87cefa;
-  }
+    h3 {
+        background-color: #87cefa;
+    }
 
-  .header {
-    background-color: #0099ff;
-    background-image: url(../img/title.jpg);
-    background-position: left top;
-    text-align: right;
-  }
+    .header {
+        background-color: #0099ff;
+        background-image: url(../img/title.jpg);
+        background-position: left top;
+        text-align: right;
+    }
 
-  .header ul li {
-    border-right: none;
-    border-left: 1px;
-    border-left-style: solid;
-    border-color: #ffffff;
-  }
+    .header ul li {
+        border-right: none;
+        border-left: 1px;
+        border-left-style: solid;
+        border-color: #ffffff;
+    }
 
-  .header li a {
-    color: #ffffff;
-  }
+    .header li a {
+        color: #ffffff;
+    }
 
-  .header li a:hover {
-    color: #0099ff;
-    background-color: #ffffff;
-  }
+    .header li a:hover {
+        color: #0099ff;
+        background-color: #ffffff;
+    }
 
-  .navigate {
-    background-color: #0066cc;
-  }
+    .navigate {
+        background-color: #0066cc;
+    }
 
-  .navigate ul {
-      margin: 0; /* 0は左寄せ、センターリングはauto */
-  }
+    .navigate ul {
+        margin: 0;
+        /* 0は左寄せ、センターリングはauto */
+    }
 
-  .navigate_wrapper li:hover {
-    background-color: #0099ff;
-  }
+    .navigate_wrapper li:hover {
+        background-color: #0099ff;
+    }
 
-  .main {
-    background-image: url(../img/back.jpg);
-    background-position: right top;
-  }
+    .main {
+        background-image: url(../img/back.jpg);
+        background-position: right top;
+    }
 
-  .main_wrapper {
-    width: 100%;
-  }
+    .main_wrapper {
+        width: 100%;
+    }
 
-  .main_wrapper p {
-    width: 800px; /* PC表示での最大幅 */
-  }
+    .main_wrapper p {
+        width: 800px;
+        /* PC表示での最大幅 */
+    }
 
-  .footer {
-    background-color: #0066cc;
-  }
+    .footer {
+        background-color: #0066cc;
+    }
 
-  img {
-    width: 800px; /* PC表示での最大幅 */
-  }
+    img {
+        width: 800px;
+        /* PC表示での最大幅 */
+    }
 
-  .side img { /* PC表示で画像を横並びにする場合は最大幅の半分 */
-    width: 400px;
-  }
+    .side img {
+        /* PC表示で画像を横並びにする場合は最大幅の半分 */
+        width: 400px;
+    }
 
-  iframe {
-    width: 800px; /* PC表示での最大幅 */
-  }
+    iframe {
+        width: 800px;
+        /* PC表示での最大幅 */
+    }
 }
