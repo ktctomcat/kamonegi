@@ -52,23 +52,6 @@ h3 {
     display: none;
 }
 
-.header ul {
-    margin: 0;
-    padding: 0.5em;
-}
-
-.header ul li {
-    margin: 0;
-    padding: 0;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    border-right: 1px;
-    border-right-style: solid;
-    border-color: #333333;
-    display: inline;
-    list-style: none;
-}
-
 .header li a {
     color: #333333;
     text-decoration: none;
@@ -168,12 +151,12 @@ h3 {
     padding: 0;
 }
 
-.footer {
+footer {
     color: #ffffff;
     background-color: #00cc00;
     text-align: center;
     margin: 0;
-    padding: 0.2em 0.2em;
+    padding: 1em;
     border: 0;
 }
 
@@ -270,10 +253,6 @@ iframe {
         /* PC表示での最大幅 */
     }
 
-    .footer {
-        background-color: #0066cc;
-    }
-
     img {
         width: 800px;
         /* PC表示での最大幅 */
@@ -287,5 +266,9 @@ iframe {
     iframe {
         width: 800px;
         /* PC表示での最大幅 */
+    }
+
+    footer {
+        background-color: #0066cc;
     }
 }
