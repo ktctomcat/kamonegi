@@ -201,8 +201,8 @@ footer {
 }
 
 
-/* 800pxを超えると適用 */
-@media screen and (min-width: 801px) {
+/* 900pxを超えると適用 */
+@media screen and (min-width: 901px) {
     a:hover {
         color: #ffffff;
         background-color: #0099ff;
@@ -248,7 +248,7 @@ footer {
     }
 
     .navigate_wrapper nav {
-        width: 800px;
+        width: 900px;
         margin: auto;
     }
 
@@ -273,7 +273,7 @@ footer {
 
     .main {
         /* メイン部分は雲画像より狭くする */
-        width: 800px;
+        width: 900px;
         /* PC表示での記事の幅（800pxは画像の幅に合わせる。100%は制限しない。） */
         margin: auto;
         /* 0は左寄せ、センターリングはauto */
@@ -281,22 +281,22 @@ footer {
     }
 
     .main_wrapper p {
-        width: 800px;
+        width: 900px;
         /* PC表示での最大幅 */
     }
 
     img {
-        width: 800px;
+        width: 900px;
         /* PC表示での最大幅 */
     }
 
     .side img {
         /* PC表示で画像を横並びにする場合は最大幅の半分 */
-        width: 400px;
+        width: 450px;
     }
 
     iframe {
-        width: 800px;
+        width: 900px;
         /* PC表示での最大幅 */
     }
 
