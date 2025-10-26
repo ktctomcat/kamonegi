@@ -64,7 +64,7 @@ h3 {
 }
 
 /* ナビゲーション部分 */
-.navigate {
+.navigate_wrapper {
     width: 100%;
     background-color: #00cc00;
     margin: 0;
@@ -74,20 +74,20 @@ h3 {
     top: 0;
 }
 
-.navigate ul {
-    margin: auto;
-    /* 0は左寄せ、センターリングはauto */
-    padding: 0;
-}
-
-.navigate_wrapper {
+.navigate {
     max-width: 400px;
     /* ナビゲーション部分の幅 */
     margin: auto;
     display: flex;
 }
 
-.navigate_wrapper li {
+.navigate {
+    margin: auto;
+    /* 0は左寄せ、センターリングはauto */
+    padding: 0;
+}
+
+.navigate li {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     border-left: #ffffff 1px solid;
@@ -96,21 +96,21 @@ h3 {
     list-style: none;
 }
 
-.navigate_wrapper li:last-child {
+.navigate li:last-child {
     border-right: #ffffff 1px solid;
 }
 
-.navigate_wrapper li:hover {
+.navigate li:hover {
     color: 333333;
     background-color: #ffff00;
 }
 
-.navigate_wrapper li a {
+.navigate li a {
     color: #ffffff;
     text-decoration: none;
 }
 
-.navigate_wrapper li a:hover {
+.navigate li a:hover {
     color: #333333;
 }
 
@@ -232,16 +232,22 @@ footer {
         background-color: #ffffff;
     }
 
-    .navigate {
+    .navigate_wrapper {
         background-color: #0066cc;
     }
 
-    .navigate ul {
+    .navigate_box {
+        max-width: 800px;
+        /* ナビゲーション部分の幅 */
+        margin: 0;
+    }
+
+    .navigate_wrapper ul {
         margin: auto;
         /* 0は左寄せ、センターリングはauto */
     }
 
-    .navigate_wrapper li:hover {
+    .navigate li:hover {
         background-color: #0099ff;
     }
 
