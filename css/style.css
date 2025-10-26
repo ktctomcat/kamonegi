@@ -74,6 +74,11 @@ h3 {
     top: 0;
 }
 
+.navigate_wrapper nav {
+    margin: 0;
+    padding: 0;
+}
+
 .navigate {
     max-width: 400px;
     /* ナビゲーション部分の幅 */
@@ -236,15 +241,13 @@ footer {
         background-color: #0066cc;
     }
 
-    .navigate_box {
-        max-width: 800px;
-        /* ナビゲーション部分の幅 */
-        margin: 0;
+    .navigate_wrapper nav {
+        width: 800px;
+        margin: auto;
     }
 
-    .navigate_wrapper ul {
-        margin: auto;
-        /* 0は左寄せ、センターリングはauto */
+    .navigate {
+        margin: 0;
     }
 
     .navigate li:hover {
