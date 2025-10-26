@@ -105,14 +105,20 @@ h3 {
     border-right: #ffffff 1px solid;
 }
 
-.navigate li:hover {
-    color: 333333;
-    background-color: #ffff00;
-}
-
 .navigate li a {
     color: #ffffff;
     text-decoration: none;
+}
+
+/* 現在のページのリスト色 */
+.current {
+    background-color: #008000;
+}
+
+/* マウスが乗ったときのリスト色とリンク色 */
+.navigate li:hover {
+    color: 333333;
+    background-color: #ffff00;
 }
 
 .navigate li a:hover {
@@ -248,6 +254,11 @@ footer {
 
     .navigate {
         margin: 0;
+    }
+
+    /* 現在のページのリスト色 */
+    .current {
+        background-color: #000080;
     }
 
     .navigate li:hover {
