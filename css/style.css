@@ -134,7 +134,7 @@ h3 {
 }
 
 /* メイン部分 */
-.main {
+.main_wrapper {
     background-image:
         url(../img/kakudayama_back.svg),
         url(../img/kamonegikun_footprints.svg);
@@ -149,7 +149,7 @@ h3 {
     padding: 1em;
 }
 
-.main_wrapper {
+.main {
     margin: 0;
     border: 0;
     padding: 0;
@@ -237,7 +237,7 @@ footer {
     }
 
     .navigate ul {
-        margin: 0;
+        margin: auto;
         /* 0は左寄せ、センターリングはauto */
     }
 
@@ -245,13 +245,19 @@ footer {
         background-color: #0099ff;
     }
 
-    .main {
+    .main_wrapper {
+        /* 雲の画像は表示している範囲はいっぱいにする */
         background-image: url(../img/back.jpg);
         background-position: right top;
     }
 
-    .main_wrapper {
-        width: 100%;
+    .main {
+        /* メイン部分は雲画像より狭くする */
+        width: 800px;
+        /* PC表示での記事の幅（800pxは画像の幅に合わせる。100%は制限しない。） */
+        margin: auto;
+        /* 0は左寄せ、センターリングはauto */
+        padding: 0;
     }
 
     .main_wrapper p {
