@@ -14,20 +14,29 @@ a:hover {
 
 h1 {
     line-height: 120%;
-    color: #00cc00;
+    background-color: #00cc00;
+    color: #ffffff;
+    padding: 5px;
 }
 
 h2 {
+    line-height: 120%;
+    background-color: #ccffcc;
+    padding: 5px;
+}
+
+h3 {
     line-height: 120%;
     border-bottom-color: #00cc00;
     border-bottom-style: solid;
     border-bottom-width: 2px;
 }
 
-h3 {
+h4 {
     line-height: 120%;
-    background-color: #ccffcc;
-    padding: 5px;
+    color: #00cc00;
+    border-left: #00cc00 5px solid;
+    padding-left: 5px;
 }
 
 /* ヘッダー部分 */
