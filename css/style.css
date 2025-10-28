@@ -1,3 +1,4 @@
+/* 全般の設定 */
 body {
     color: #333333;
     background-color: #ffffff;
@@ -10,6 +11,10 @@ body {
 a:hover {
     color: #333333;
     background-color: #ffff00;
+}
+
+dt {
+    font-weight: bold;
 }
 
 h1 {
