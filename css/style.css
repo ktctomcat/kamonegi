@@ -45,7 +45,7 @@ h4 {
 }
 
 /* ヘッダー部分 */
-.header {
+header {
     color: #ffffff;
     background-color: #ffff00;
     background-image:
@@ -63,16 +63,16 @@ h4 {
     height: 100px;
 }
 
-.header p {
+header p {
     display: none;
 }
 
-.header li a {
+header li a {
     color: #333333;
     text-decoration: none;
 }
 
-.header li a:hover {
+header li a:hover {
     color: #ffffff;
     background-color: #00cc00;
 }
@@ -174,7 +174,7 @@ h4 {
     padding: 1em;
 }
 
-.main {
+main {
     margin: 0;
     border: 0;
     padding: 0;
@@ -239,25 +239,25 @@ footer {
         border-left: #0066cc 5px solid;
     }
 
-    .header {
+    header {
         background-color: #0099ff;
         background-image: url(../img/title.jpg);
         background-position: left top;
         text-align: right;
     }
 
-    .header ul li {
+    header ul li {
         border-right: none;
         border-left: 1px;
         border-left-style: solid;
         border-color: #ffffff;
     }
 
-    .header li a {
+    header li a {
         color: #ffffff;
     }
 
-    .header li a:hover {
+    header li a:hover {
         color: #0099ff;
         background-color: #ffffff;
     }
@@ -291,7 +291,7 @@ footer {
         background-position: right top;
     }
 
-    .main {
+    main {
         /* メイン部分は雲画像より狭くする */
         width: 900px;
         /* PC表示での記事の幅（800pxは画像の幅に合わせる。100%は制限しない。） */
@@ -302,22 +302,22 @@ footer {
 
     .main_wrapper p {
         width: 900px;
-        /* PC表示での最大幅 */
+        /* PC表示での段落幅 */
     }
 
     img {
         width: 900px;
-        /* PC表示での最大幅 */
+        /* PC表示での画像幅 */
     }
 
     .side img {
-        /* PC表示で画像を横並びにする場合は最大幅の半分 */
+        /* PC表示で画像を横並びにする場合は画像幅を半分にする */
         width: 450px;
     }
 
     iframe {
         width: 900px;
-        /* PC表示での最大幅 */
+        /* PC表示でのiframe幅 */
     }
 
     footer {
