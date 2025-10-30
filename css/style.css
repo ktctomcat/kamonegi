@@ -9,7 +9,6 @@ body {
 }
 
 a:hover {
-    color: #333333;
     background-color: #ffff00;
 }
 
@@ -64,17 +63,9 @@ header {
 }
 
 header p {
+    margin: 0;
+    padding: 0;
     display: none;
-}
-
-header li a {
-    color: #333333;
-    text-decoration: none;
-}
-
-header li a:hover {
-    color: #ffffff;
-    background-color: #00cc00;
 }
 
 /* ナビゲーション部分 */
@@ -131,7 +122,6 @@ header li a:hover {
 
 /* マウスが乗ったときのリスト色とリンク色 */
 .navigate li:hover {
-    color: 333333;
     background-color: #ffff00;
 }
 
