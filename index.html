@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="description" content="新潟市西蒲区潟東地域で毎年行われている「かもん！カモねぎまつり」の情報やキャラクターの「カモねぎくん」に関連する画像データ等を掲載・配布しています。">
     <meta name="keywords" content="かもん！カモねぎまつり,カモねぎまつり,カモねぎくん,カモネギ君,新潟,西蒲区,潟東,長吉,割烹長吉,鴨料理,鴨猟,無双網,寺門ジモン,ジモン">
+    <meta name="author" content="Tomoo Ito">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" type="text/css" href="./css/style.css">
@@ -25,10 +26,10 @@
         <p>かもん！カモねぎくん</p>
     </header>
 
-    <div class="navigate_wrapper">
-        <nav>
+    <div class="nav_wrapper">
+        <nav aria-label="グローバルナビゲーション">
             <ul class="navigate">
-                <li class="current"><a href="index.html">ホーム</a></li>
+                <li class="current"><a href="index.html" aria-current="page">ホーム</a></li>
                 <li><a href="graphic.html">展示室</a></li>
                 <li><a href="information.html">情報局</a></li>
                 <li><a href="others.html">その他</a></li>
@@ -38,7 +39,7 @@
 
     <div class="main_wrapper">
         <main>
-            <nav class="breadcrumbs">
+            <nav class="breadcrumbs" aria-label="パンくずリスト">
                 <ol>
                     <li>ホーム</li>
                 </ol>
@@ -56,7 +57,7 @@
                 画像データ等は<a href="graphic.html">こちら！</a>
             </p>
             <figure>
-                <img src="img/kamonegikun/kamonegikun_rev305_color.svg" alt="カモねぎくんの画像">
+                <img src="img/kamonegikun/kamonegikun_rev305_color.svg" alt="カモねぎくんの画像" loading="lazy" decoding="async">
             </figure>
 
             <h2>かもん！カモねぎまつりとは？</h2>
@@ -65,7 +66,7 @@
                 ネギなどの冬野菜の販売や飲食物の販売、キッチンカーなどの出店もあります。
             </p>
             <figure>
-                <img src="img/photo/fes/photo_fes2004_001.JPG" alt="">
+                <img src="img/photo/fes/photo_fes2004_001.JPG" alt="かもん！カモねぎまつりの様子" loading="lazy" decoding="async">
             </figure>
 
             <h3>かもん！カモねぎまつり開催のお知らせ</h3>
@@ -94,8 +95,8 @@
                 今年もカモ汁券は前売り券のみです。当日券はありません。
             </p>
             <figure class="side">
-                <img src="img/photo/photo_kamojiruken_001.JPG" alt="">
-                <img src="img/photo/photo_kamojiruken_002.JPG" alt="">
+                <img src="img/photo/photo_kamojiruken_001.JPG" alt="カモ汁券販売中のミニのぼり" loading="lazy" decoding="async">
+                <img src="img/photo/photo_kamojiruken_002.JPG" alt="カモ汁券の写真" loading="lazy" decoding="async">
             </figure>
             <dl>
                 <dt>受付時間</dt>
@@ -110,8 +111,9 @@
             </p>
 
             <ul>
-                <li><a href="http://katacommu.com/">ホームページ</a></li>
-                <li><a href="https://www.facebook.com/profile.php?id=100093564251914">Facebookページ</a></li>
+                <li><a href="http://katacommu.com/" rel="noopener noreferrer">ホームページ</a></li>
+                <li><a href="https://www.facebook.com/profile.php?id=100093564251914"
+                        rel="noopener noreferrer">Facebookページ</a></li>
             </ul>
 
             <h4>開催会場の位置</h4>
@@ -119,10 +121,9 @@
                 潟東地域コミュニティセンター<br>
                 新潟市西蒲区三方2番地
             </p>
-            <iframe
+            <iframe title="開催会場の地図（潟東地域コミュニティセンター）"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.961040272145!2d138.965224!3d37.7675117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff4c3c8fac140fb%3A0xd9eecd8057011fdb!2z5r2f5p2x5Zyw5Z-f44Kz44Of44Ol44OL44OG44Kj44K744Oz44K_44O8!5e0!3m2!1sja!2sjp!4v1700966464583!5m2!1sja!2sjp"
-                width="" height="" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade">
+                style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
             </iframe>
 
             <h4>アクセス</h4>
@@ -139,21 +140,23 @@
             <h4>広報かたひがし</h4>
             <p>
                 平成8年(1996年)11月の第1回かもん！カモねぎまつりを紹介する広報かたひがしのページです。<br>
-                <a href="img/pr/pr_katahigashi_402_excerpt.pdf">広報かたひがし 平成8年11月</a><br>
+                <a href="img/pr/pr_katahigashi_402_excerpt.pdf" rel="noopener noreferrer">広報かたひがし 平成8年11月</a><br>
                 この記事でカモねぎくんは、カモねぎまつりマスコットとして紹介されています。
             </p>
 
             <h4>カモねぎまつりのチラシ</h4>
             <ul>
-                <li><a href="img/flyer/kamonegi_fes2024.pdf">かもん！カモねぎまつり2024チラシ</a></li>
-                <li><a href="img/flyer/kamonegi_fes2023.pdf">かもん！カモねぎまつり2023チラシ</a></li>
+                <li><a href="img/flyer/kamonegi_fes2024.pdf" rel="noopener noreferrer">かもん！カモねぎまつり2024チラシ</a></li>
+                <li><a href="img/flyer/kamonegi_fes2023.pdf" rel="noopener noreferrer">かもん！カモねぎまつり2023チラシ</a></li>
             </ul>
 
             <h4>YouTube動画</h4>
             <p>過去のカモねぎまつりの様子がYouTubeにアップされています。</p>
             <ul>
-                <li><a href="https://www.youtube.com/watch?v=wHWqDFGvgdg">181202 第２３回カモン！カモネギまつり！！</a></li>
-                <li><a href="https://www.youtube.com/watch?v=UHEtHSIYOMM">かもん！潟東 カモねぎまつり（2009.12.6）</a></li>
+                <li><a href="https://www.youtube.com/watch?v=wHWqDFGvgdg" rel="noopener noreferrer">
+                        181202第２３回カモン！カモネギまつり！！</a></li>
+                <li><a href="https://www.youtube.com/watch?v=UHEtHSIYOMM" rel="noopener noreferrer">
+                        かもん！潟東カモねぎまつり（2009.12.6）</a></li>
             </ul>
 
             <h4>カモねぎまつりの様子</h4>
@@ -162,15 +165,15 @@
                 毎年12月の上旬は天気が悪く、なんかいつも雨模様の印象なんですよね…
             </p>
             <figure>
-                <img src="img/photo/fes/photo_fes2024_001.JPG">
+                <img src="img/photo/fes/photo_fes2024_001.JPG" alt="カモねぎまつり会場の様子" loading="lazy" decoding="async">
             </figure>
 
             <figure>
-                <img src="img/photo/fes/photo_fes2023_001.JPG">
+                <img src="img/photo/fes/photo_fes2023_001.JPG" alt="カモねぎまつり会場の様子" loading="lazy" decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/fes/photo_fes2023_002.JPG">
-                <img src="img/photo/fes/photo_fes2023_003.JPG">
+                <img src="img/photo/fes/photo_fes2023_002.JPG" alt="カゴに入れられたカモ" loading="lazy" decoding="async">
+                <img src="img/photo/fes/photo_fes2023_003.JPG" alt="展示されている無双網" loading="lazy" decoding="async">
             </figure>
             <p>
                 無双網の展示もされています。
@@ -183,11 +186,11 @@
                 レストランと言っても、体育館の中にゴザを敷いてテーブルが並べられているだけですが…
             </p>
             <figure>
-                <img src="img/photo/fes/photo_fes2024_002.JPG">
+                <img src="img/photo/fes/photo_fes2024_002.JPG" alt="カモ汁レストランの様子" loading="lazy" decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/fes/photo_fes2024_003.JPG">
-                <img src="img/photo/fes/photo_fes2024_004.JPG">
+                <img src="img/photo/fes/photo_fes2024_003.JPG" alt="かも汁の写真" loading="lazy" decoding="async">
+                <img src="img/photo/fes/photo_fes2024_004.JPG" alt="カモ汁定食の写真" loading="lazy" decoding="async">
             </figure>
             <p>
                 今年も美味しいカモ汁がいただけますよ！
@@ -198,54 +201,55 @@
                 小学生の「呼び込み」が元気いっぱいで良いですね！
             </p>
             <figure>
-                <img src="img/photo/fes/photo_fes2023_005.JPG">
+                <img src="img/photo/fes/photo_fes2023_005.JPG" alt="ねぎ焼きの様子" loading="lazy" decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/fes/photo_fes2023_004.JPG">
-                <img src="img/photo/fes/photo_fes2023_015.JPG">
+                <img src="img/photo/fes/photo_fes2023_004.JPG" alt="ねぎ焼きにソースをかけている様子" loading="lazy" decoding="async">
+                <img src="img/photo/fes/photo_fes2023_015.JPG" alt="ねぎを焼いている様子" loading="lazy" decoding="async">
             </figure>
 
             <p>ふるまい餅は行列ができてます。</p>
             <figure>
-                <img src="img/photo/fes/photo_fes2023_007.JPG">
+                <img src="img/photo/fes/photo_fes2023_007.JPG" alt="ふるまい餅の行列の様子" loading="lazy" decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/fes/photo_fes2023_016.JPG">
-                <img src="img/photo/fes/photo_fes2023_006.JPG">
+                <img src="img/photo/fes/photo_fes2023_016.JPG" alt="ふるまい餅の行列最後尾" loading="lazy" decoding="async">
+                <img src="img/photo/fes/photo_fes2023_006.JPG" alt="ふるまい餅を配る様子" loading="lazy" decoding="async">
             </figure>
 
             <p>
                 各種キッチンカーや出店もあります。
             </p>
             <figure>
-                <img src="img/photo/fes/photo_fes2024_005.JPG">
+                <img src="img/photo/fes/photo_fes2024_005.JPG" alt="各種キッチンカーの様子" loading="lazy" decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/fes/photo_fes2023_013.JPG">
-                <img src="img/photo/fes/photo_fes2023_012.JPG">
+                <img src="img/photo/fes/photo_fes2023_013.JPG" alt="キッチンカーの様子" loading="lazy" decoding="async">
+                <img src="img/photo/fes/photo_fes2023_012.JPG" alt="キッチンカーの様子" loading="lazy" decoding="async">
             </figure>
 
             <p>野菜などの販売もあります。</p>
             <figure>
-                <img src="img/photo/fes/photo_fes2023_010.JPG">
+                <img src="img/photo/fes/photo_fes2023_010.JPG" alt="物販の様子" loading="lazy" decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/fes/photo_fes2024_008.JPG">
-                <img src="img/photo/fes/photo_fes2023_011.JPG">
+                <img src="img/photo/fes/photo_fes2024_008.JPG" alt="物販の様子" loading="lazy" decoding="async">
+                <img src="img/photo/fes/photo_fes2023_011.JPG" alt="物販の様子" loading="lazy" decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/fes/photo_fes2023_008.JPG">
-                <img src="img/photo/fes/photo_fes2023_009.JPG">
+                <img src="img/photo/fes/photo_fes2023_008.JPG" alt="やきいも販売" loading="lazy" decoding="async">
+                <img src="img/photo/fes/photo_fes2023_009.JPG" alt="花や野菜の販売" loading="lazy" decoding="async">
             </figure>
 
             <p>商工会青年部のライスバーガーともつ煮が最高なんですよね…<br>
                 正直、私はこれが目当てです。</p>
             <figure>
-                <img src="img/photo/fes/photo_fes2024_007.JPG">
+                <img src="img/photo/fes/photo_fes2024_007.JPG" alt="商工会青年部のライスバーガーともつ煮の販売の様子" loading="lazy"
+                    decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/fes/photo_fes2024_006.JPG">
-                <img src="img/photo/fes/photo_fes2023_014.JPG">
+                <img src="img/photo/fes/photo_fes2024_006.JPG" alt="もつ焼き" loading="lazy" decoding="async">
+                <img src="img/photo/fes/photo_fes2023_014.JPG" alt="もつ煮" loading="lazy" decoding="async">
             </figure>
 
             <h2>まつりに行きそびれた方へ</h2>
@@ -264,7 +268,7 @@
                 家族連れやグループでの利用にも適しています。
             </p>
             <p>
-                <a href="https://longly-luck.com/">割烹 長吉 ホームページ</a><br>
+                <a href="https://longly-luck.com/" rel="noopener noreferrer">割烹 長吉 ホームページ</a><br>
                 美味しいカモ料理がいただけますよ！
             </p>
             <p>
@@ -272,15 +276,15 @@
                 寺門ジモンさんも訪れたことがあるようですね。
             </p>
             <p>【究極の鴨肉】寺門ジモンが冬になると必ず訪れる「割烹 長吉」天然鴨の美味さに焼肉奉行ジモンのウザさもMAX！</p>
-            <iframe src="https://www.youtube.com/embed/s_Rgky52-XY?si=tR92i4qfvAVkFUFJ" title="YouTube video player"
-                frameborder="0"
+            <iframe src="https://www.youtube.com/embed/s_Rgky52-XY?si=tR92i4qfvAVkFUFJ"
+                title="寺門ジモンが訪れた割烹 長吉の紹介動画（YouTube）" loading="lazy" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
             </iframe>
 
             <p>【貴重】1年で2ヶ月しか食べられない絶品鴨肉　新潟 割烹長吉</p>
-            <iframe src="https://www.youtube.com/embed/2CAohfT8QQM?si=H8oxYqZN1o5ZPolW" title="YouTube video player"
-                frameborder="0"
+            <iframe src="https://www.youtube.com/embed/2CAohfT8QQM?si=H8oxYqZN1o5ZPolW"
+                title="1年で2ヶ月しか食べられない絶品鴨肉 新潟 割烹長吉（YouTube）" loading="lazy" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
             </iframe>
@@ -297,11 +301,14 @@
                 実際に無双網が仕掛けられている場所がありましたので、昼間に撮影してきました。
             </p>
             <figure>
-                <img src="img/photo/hunting/photo_hunting2024_004.jpg">
+                <img src="img/photo/hunting/photo_hunting2024_004.jpg" alt="見張り小屋と無双網の設置状況" loading="lazy"
+                    decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/hunting/photo_hunting2024_005.jpg">
-                <img src="img/photo/hunting/photo_hunting2024_006.jpg">
+                <img src="img/photo/hunting/photo_hunting2024_005.jpg" alt="見張り小屋と無双網の設置状況" loading="lazy"
+                    decoding="async">
+                <img src="img/photo/hunting/photo_hunting2024_006.jpg" alt="カゴに入れられた呼び鴨" loading="lazy"
+                    decoding="async">
             </figure>
             <p>
                 無双網猟は、水を張った田んぼが猟場となります。
@@ -311,11 +318,11 @@
             </p>
 
             <figure>
-                <img src="img/photo/hunting/photo_hunting2024_001.jpg">
+                <img src="img/photo/hunting/photo_hunting2024_001.jpg" alt="見張り小屋" loading="lazy" decoding="async">
             </figure>
             <figure class="side">
-                <img src="img/photo/hunting/photo_hunting2024_002.jpg">
-                <img src="img/photo/hunting/photo_hunting2024_003.jpg">
+                <img src="img/photo/hunting/photo_hunting2024_002.jpg" alt="見張り小屋" loading="lazy" decoding="async">
+                <img src="img/photo/hunting/photo_hunting2024_003.jpg" alt="見張り小屋" loading="lazy" decoding="async">
             </figure>
 
             <p>

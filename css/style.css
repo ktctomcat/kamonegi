@@ -78,7 +78,7 @@ header li a:hover {
 }
 
 /* ナビゲーション部分 */
-.navigate_wrapper {
+.nav_wrapper {
     width: 100%;
     background-color: #00cc00;
     margin: 0;
@@ -88,7 +88,7 @@ header li a:hover {
     top: 0;
 }
 
-.navigate_wrapper nav {
+.nav_wrapper nav {
     margin: 0;
     padding: 0;
 }
@@ -262,11 +262,11 @@ footer {
         background-color: #ffffff;
     }
 
-    .navigate_wrapper {
+    .nav_wrapper {
         background-color: #0066cc;
     }
 
-    .navigate_wrapper nav {
+    .nav_wrapper nav {
         width: 900px;
         margin: auto;
     }
