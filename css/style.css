@@ -115,7 +115,7 @@ header p {
     text-decoration: none;
 }
 
-/* 現在のページのリスト色 */
+/* 現在のページのリスト色 li を指定しないと効かない */
 li.current {
 
     background-color: #ffffff
