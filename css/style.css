@@ -88,12 +88,7 @@ header p {
 
 .navigate {
     max-width: 400px;
-    /* ナビゲーション部分の幅 */
-    margin: auto;
     display: flex;
-}
-
-.navigate {
     margin: auto;
     /* 0は左寄せ、センターリングはauto */
     padding: 0;
@@ -103,9 +98,12 @@ header p {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     border-left: #ffffff 1px solid;
+    border-top: #ffffff 1px solid;
     width: calc(100%/4);
     text-align: center;
     list-style: none;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
 }
 
 .navigate li:last-child {
