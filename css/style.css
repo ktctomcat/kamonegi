@@ -116,8 +116,13 @@ header p {
 }
 
 /* 現在のページのリスト色 */
-.current {
-    background-color: #008000;
+li.current {
+
+    background-color: #ffffff
+}
+
+li.current a {
+    color: #333333;
 }
 
 /* マウスが乗ったときのリスト色とリンク色 */
