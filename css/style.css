@@ -20,13 +20,15 @@ h1 {
     line-height: 120%;
     background-color: #00cc00;
     color: #ffffff;
-    padding: 5px;
+    padding: 6px;
+    border-radius: 12px;
 }
 
 h2 {
     line-height: 120%;
     background-color: #ccffcc;
     padding: 5px;
+    border-radius: 10px;
 }
 
 h3 {
