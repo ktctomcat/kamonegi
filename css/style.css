@@ -5,7 +5,8 @@ body {
     margin: 0;
     border: 0;
     padding: 0;
-    font-family: 'Zen Maru Gothic', sans-serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 400; / 通常の太さ /
 }
 
 /* 共通スタイル */
