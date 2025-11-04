@@ -6,7 +6,7 @@
    version="1.1"
    id="svg518"
    sodipodi:docname="favicon.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,12 +24,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.2745136"
-     inkscape:cx="69.247645"
+     inkscape:cx="69.130673"
      inkscape:cy="88.080197"
-     inkscape:window-width="1800"
-     inkscape:window-height="1106"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg518"
      showguides="true">
@@ -308,13 +308,6 @@
      inkscape:label="カモねぎくん"
      transform="matrix(0.17027525,0,0,0.17032024,-48.693281,-279.37382)"
      style="stroke-width:1.43292">
-    <rect
-       style="display:inline;fill:#ffff00;stroke-width:66.5805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9"
-       id="rect1"
-       width="8456.8105"
-       height="8454.5771"
-       x="-119.25819"
-       y="1640.2855" />
     <g
        inkscape:groupmode="layer"
        id="layer3"
