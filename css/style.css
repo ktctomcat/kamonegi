@@ -195,7 +195,7 @@ li.current a {
         repeat-y;
     margin: 0;
     border: 0;
-    padding: 1em;
+    padding: 1em 1em 3em;
 }
 
 /* メイン */
