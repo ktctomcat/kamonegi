@@ -269,8 +269,4 @@ main {
         /* 0は左寄せ、センターリングはauto */
     }
 
-    .main_wrapper p {
-        width: 900px;
-        /* PC表示での段落幅 */
-    }
 }
