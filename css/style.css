@@ -1,0 +1,336 @@
+/* 共通スタイル */
+
+/* 見出しスタイル */
+h1 {
+    line-height: 1.2;
+    background-color: #00cc00;
+    color: #ffffff;
+    padding: 6px;
+    border-radius: 12px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    line-height: 1.2;
+    background-color: #ccffcc;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h3 {
+    line-height: 1.4;
+    border-bottom-color: #00cc00;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+h4 {
+    line-height: 1.4;
+    color: #00cc00;
+    border-left: #00cc00 5px solid;
+    padding-left: 5px;
+}
+
+/* リンクの基本スタイル */
+a {
+    color: #00cc00;
+}
+
+/* 未訪問リンク */
+a:link {
+    color: #00cc00;
+}
+
+/* 訪問済みリンク */
+a:visited {
+    color: #666666;
+}
+
+/* アクティブ時（クリック中） */
+a:active {
+    color: #00cc00;
+}
+
+/* ホバー時（マウスオーバー時） */
+a:hover {
+    border-radius: 6px;
+
+    color: #00cc00;
+    background-color: #ffff00;
+    font-weight: bolder;
+
+    transition: background-color 0.3s ease;
+    /* 背景色のアニメーション（効果はイマイチ） */
+}
+
+/* 定義リストの見出し */
+dt {
+    font-weight: bold;
+}
+
+/* 画像 */
+figure {
+    margin: 0;
+    display: flex;
+}
+
+/* 画像を縦に並べる場合 */
+img {
+    width: 100%;
+}
+
+/* 画像を横並びに表示する場合 */
+.side {
+    display: flex;
+}
+
+/* 画像を横並びに表示する場合は50% */
+.side img {
+    width: 50%;
+}
+
+/* iframe */
+iframe {
+    border: 0;
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+
+/* ボディ */
+body {
+    color: #333333;
+    background-color: #666666;
+    line-height: 1.6;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 400;
+}
+
+/* ラッパー */
+.wrapper {
+    background-color: #ffffff;
+}
+
+/* ヘッダー */
+header {
+    background-color: #ffff00;
+    color: #ffffff;
+    background-image:
+        url(../img/kamonegikun_title_left.svg),
+        url(../img/kamonegikun_title_right.svg);
+    background-position:
+        left top,
+        right top;
+    background-repeat:
+        no-repeat,
+        no-repeat;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 100px;
+}
+
+/* ヘッダー内の p を非表示にする */
+header p {
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+/* グローバルナビゲーション */
+.global_nav {
+    background-color: #00cc00;
+    width: 100%;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+/* ナビゲーションリストを横並びにする */
+.global_nav ul {
+    max-width: 400px;
+    display: flex;
+    margin: auto;
+    /* 0は左寄せ、センターリングはauto */
+    padding: 0;
+}
+
+/* ナビゲーションリストの各項目 */
+.global_nav li {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    width: calc(100%/4);
+    text-align: center;
+    list-style: none;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+/* 最後の li の右側 */
+.global_nav ul li:last-child {
+    border-right: #ffffff 1px solid;
+}
+
+/* リンク色 */
+.global_nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* 現在のページ色（li を指定しないと効かない） */
+.global_nav li.current {
+    background-color: #ffffff
+}
+
+/* 現在のページ色のリンク */
+.global_nav li.current a {
+    color: #333333;
+    font-weight: bolder;
+}
+
+/* マウスが乗ったときの色 */
+.global_nav ul li:hover {
+    background-color: #ffff00;
+}
+
+/* マウスが乗ったときのリンク色 */
+.global_nav ul li a:hover {
+    color: #333333;
+    font-weight: bolder;
+}
+
+/* ナビゲーションのアニメーション */
+.global_nav ul li,
+.global_nav ul li a {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* パンくずリスト */
+.breadcrumbs ol {
+    margin: 0;
+    padding: 0;
+}
+
+/* リストを横並びにする */
+.breadcrumbs li {
+    display: inline;
+}
+
+/* 区切り文字 */
+.breadcrumbs li::after {
+    content: '>';
+    padding: 0 0.5em;
+}
+
+/* 最後の区切り文字を消す */
+.breadcrumbs li:last-child::after {
+    display: none;
+}
+
+/* メイン */
+main {
+    background-image:
+        url(../img/kakudayama_back.svg),
+        url(../img/kamonegikun_footprints.svg);
+    background-position:
+        left bottom,
+        right top;
+    background-repeat:
+        no-repeat,
+        repeat-y;
+    margin: 0;
+    border: 0;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 3em;
+    /* アニメーション */
+    opacity: 0;
+    animation: fadeIn 1s ease-in forwards;
+    z-index: 1;
+}
+
+/* フェードインアニメーション */
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+/* 連絡先リスト */
+.contact {
+    list-style-type: none;
+    /* マークを消す */
+}
+
+/* 連絡先アイコンとリンクの間隔 */
+.contact a {
+    margin-left: 0.5em;
+}
+
+/* フッター */
+footer {
+    text-align: center;
+    margin: 0;
+    border: 0;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    color: #ffffff;
+    background-color: #00cc00;
+}
+
+/* レスポンシブデザイン */
+/* 画面幅が800px以上の場合 */
+@media screen and (min-width: 800px) {
+
+    /* ラッパー */
+    .wrapper {
+        width: 800px;
+        /* PC表示での記事の幅（900pxは画像の幅に合わせる。100%は制限しない。） */
+        margin: auto;
+        /* 0は左寄せ、センターリングはauto */
+        margin-top: 50px;
+        margin-bottom: 50px;
+        /* 上下の余白 */
+        border-radius: 20px;
+        /* 角丸 */
+        box-shadow: 0 0 20px #000000;
+        /* 影 */
+    }
+
+    /* ヘッダー */
+    header {
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+        /* 角丸 */
+    }
+
+    /* メイン */
+    main {
+        padding-left: 2em;
+        padding-right: 2em;
+        /* 横の余白 */
+    }
+
+    /* フッター */
+    footer {
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        /* 角丸 */
+    }
+
+    /* ナビゲーションを左寄せにする */
+    .global_nav ul {
+        margin: 0;
+        /* 0は左寄せ、センターリングはauto */
+        margin-left: 1em;
+    }
+}

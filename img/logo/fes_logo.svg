@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240.00008mm"
+   height="120.00016mm"
+   viewBox="0 0 240.00008 120.00016"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="fes_logo_Outline.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:jsh="http://www.justsystem.co.jp/hanako13/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#bdbdbd"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="605"
+     inkscape:cy="428.5"
+     inkscape:window-width="1800"
+     inkscape:window-height="1106"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-113.38582"
+       originy="-113.38582"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="枠"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-29.999997,-29.999999)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.01;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect27"
+       width="240.00006"
+       height="119.99992"
+       x="30"
+       y="30.000238"
+       inkscape:label="背景"
+       inkscape:export-filename="..\..\..\Users\tomoo\OneDrive\www\kamonegi\img\logo\fes_logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:4;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect56"
+       width="236"
+       height="116"
+       x="31.999998"
+       y="32"
+       inkscape:label="外枠"
+       inkscape:export-filename="..\..\..\Users\tomoo\OneDrive\www\kamonegi\img\logo\fes_logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect59"
+       style="fill:#008000;stroke:none;stroke-width:4;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="文字の下"
+       d="M 30.000236,70.999801 V 109.00007 H 153.9999 V 70.999801 Z m 112.119774,6.659025 h 2.67167 v 5.124751 h -2.67167 z m 3.25458,0 h 2.57452 v 5.124751 h -2.57452 z m -45.387411,0.291455 h 4.493261 v 2.064473 h 1.38442 v 4.760433 l 4.56613,-4.153235 h 10.03091 v 13.576949 h 2.74453 v 4.881873 h -2.74453 v 3.716056 h -9.22941 v -8.597929 h 4.68757 v -8.719364 h -3.47318 l -7.96644,7.844999 v 9.302274 h -4.493261 v -3.716052 h -1.020093 l -0.801502,0.607199 -3.230293,-3.497461 c 0.42099,-0.50195 1.036286,-1.125343 1.845882,-1.87017 0.825788,-0.744828 1.619197,-1.546334 2.380216,-2.404505 0.777212,-0.858171 1.076771,-1.870172 0.898651,-3.03599 -0.161914,-1.18201 -0.161914,-2.46118 0,-3.837492 h -4.493263 v -4.857585 h 4.420402 z m -57.354639,0.02429 h 5.780526 v 6.047693 h 12.62972 V 102.8454 H 55.3837 V 88.491239 H 48.413066 V 102.8454 H 42.63254 V 88.491239 h -6.582027 v -4.468977 h 6.582027 z m 21.41523,0.09715 h 27.809672 v 4.250387 H 79.300586 v 3.691764 h 12.556856 v 4.250387 H 79.300586 v 8.452197 h 12.556856 v 4.250384 H 75.268791 V 90.264258 H 64.04777 V 86.013871 H 75.268791 V 82.322107 H 64.04777 Z m 67.53128,0.02429 h 4.97902 v 1.044381 h 5.0276 v 5.14904 h -5.0276 v 1.505851 h 4.95474 v 5.124752 h -4.95474 c 0.0486,0.550525 0.0486,1.084862 0,1.603003 -0.0486,0.501949 -0.29957,0.922941 -0.75292,1.262972 -0.45338,0.340029 -0.85818,0.696254 -1.2144,1.068668 -0.35622,0.372414 -0.68006,0.769119 -0.97152,1.190109 l 4.00751,4.201803 -3.57032,3.54604 -7.77214,-7.990723 4.76043,-4.881872 h -4.4204 V 85.79528 h 4.95474 v -1.505851 h -4.88187 v -5.14904 h 4.88187 z" />
+    <path
+       id="rect58"
+       style="fill:#008000;stroke:none;stroke-width:4;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="右"
+       d="M 150.00015,30.000236 V 150.00015 H 270.00006 V 30.000236 Z m 59.99995,3.999756 A 56,55.999996 0 0 1 265.99978,90.000191 56,55.999996 0 0 1 210.0001,145.99987 56,55.999996 0 0 1 153.9999,90.000191 56,55.999996 0 0 1 210.0001,33.999992 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="文字"
+     style="display:inline"
+     transform="translate(-29.999997,-29.999999)">
+    <path
+       style="font-size:24.8708px;line-height:28.2px;font-family:'site seeing shop';-inkscape-font-specification:'site seeing shop';letter-spacing:14.8167px;word-spacing:0.41275px;fill:#008000;stroke-width:0;paint-order:stroke fill markers"
+       d="m 45.657607,140.07416 v -9.98232 h 8.52505 v -1.603 h -8.52505 v -4.34753 h 8.52505 v -1.38441 h -8.52505 v -4.32325 h 8.52505 V 115.932 h 5.561926 v 2.50165 h 6.533443 v 4.32325 h -6.533443 v 1.38441 h 6.533443 v 4.34753 h -6.533443 v 1.603 h 6.533443 v 4.32324 h -6.533443 v 5.65908 z m 8.52505,-4.32324 v -1.33584 h -2.938835 v 1.33584 z m 40.561866,2.35592 -3.327441,-3.54603 q 3.837487,-3.98321 5.343336,-5.22189 1.530137,-1.23869 2.137334,-2.86598 0.631485,-1.62728 0.194303,-3.66747 H 81.410471 v -4.93044 h 23.194939 v 10.51666 z m 36.408637,1.96732 -3.44888,-3.66747 5.07617,-5.07617 v -15.32566 h 5.56192 v 16.80722 z M 119.6407,132.59349 V 115.932 h 5.58621 v 16.66149 z"
+       id="text61"
+       inkscape:label="まつり"
+       aria-label="まつり" />
+    <path
+       style="font-size:25.4px;line-height:28.8px;font-family:'site seeing shop';-inkscape-font-specification:'site seeing shop';letter-spacing:7.9375px;word-spacing:0.41275px;fill:#008000;stroke-width:0;paint-order:stroke fill markers"
+       d="M 45.540813,65.519476 V 48.776312 h -5.680274 v -5.308203 h 5.680274 v -3.249414 h 5.159375 v 3.249414 q 1.686718,-0.07441 3.398242,0.02481 1.736328,0.07441 2.852539,1.513086 1.141015,1.438672 2.406054,2.530078 1.289844,1.091406 2.480469,2.406055 l 0.04961,0.07441 v 15.502929 h -5.13457 v -13.07207 q -0.620117,-0.719336 -1.339453,-1.314648 -0.694531,-0.620117 -1.314648,-1.389063 -0.620118,-0.79375 -1.513086,-0.917773 -0.892969,-0.124024 -1.885156,-0.04961 v 16.743164 z m 17.735351,-15.577343 -7.763867,-7.9375 3.819922,-3.59668 7.615039,7.962305 z M 85.277923,65.445062 81.805267,62.121234 V 54.95268 h -6.697265 v -4.489649 h 6.697265 V 48.181 h -6.697265 v -4.489648 h 6.697265 v -3.497461 h 5.779492 v 3.497461 h 9.004102 V 48.181 h -9.004102 v 2.282031 h 9.004102 v 4.489649 h -9.004102 v 5.407421 q 0.223243,1.016993 3.671094,0.595313 l 2.207617,-2.00918 3.472656,3.745508 -2.75332,2.75332 z M 107.10605,65.22182 V 40.119477 h 5.63066 v 17.760156 h 0.14883 l 7.78867,-7.56543 q 0.74414,0.967383 1.86035,1.810742 1.14102,0.818555 1.46348,1.984375 0.34727,1.141016 0.19844,2.505274 -0.14883,1.339453 0,2.604492 h 4.11758 v 5.853906 H 118.4914 V 59.66557 h -0.14883 q -1.19062,1.141016 -2.35644,2.406055 -1.16582,1.265039 -2.40606,2.356445 -1.21543,1.091406 -3.05097,0.818555 -1.83555,-0.248047 -3.42305,-0.02481 z m 31.25391,0.297656 V 59.66557 h 5.77949 v 5.853906 z m 0,-8.656836 V 40.119477 h 5.77949 V 56.86264 Z"
+       id="text59"
+       inkscape:label="かもん！"
+       aria-label="かもん！" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="カモねぎくん"
+     transform="translate(-29.999997,-29.999999)">
+    <g
+       id="g3"
+       inkscape:label="かも">
+      <g
+         id="g22-0"
+         inkscape:label="カモ色"
+         style="display:inline;stroke-width:1.34095"
+         transform="matrix(0.0124956,0,0,0.0124956,158.21554,16.36877)">
+        <path
+           id="path288-2"
+           style="display:inline;fill:#008000;fill-opacity:1;stroke-width:1.34095"
+           inkscape:label="胴体の茶色"
+           d="m 3983.4855,4999.8647 c -61.2498,0.625 -122.5136,5.6362 -175.5136,15.1362 -106.8853,18.5155 -209.6619,54.4624 -241.0624,65.921 l -1.9023,5.0867 -37.0134,66.0037 -57.9807,92.9676 -44.995,66.0037 -48.0139,60.9997 -71.0078,64.0186 -68.9813,62.9848 -69.0227,64.0186 -55.9956,55.0031 -76.0118,100.9906 -42.9685,57.9807 -31.0168,60.9997 -39.991,95.0354 -28.9903,110.9987 -24.0277,121.9993 -5.004,139.989 10.008,100.9907 43.01,105.0021 98.013,154.0086 112.9838,144.9931 127.0033,116.9953 216.9934,182.0065 31.8439,27.1707 H 6344.524 l 236.4719,-164.1822 138.004,-105.9946 155.9937,-143.0081 71.0077,-77.0043 43.01,-67.9888 17.9897,-93.0089 -23.9863,-94.9941 -84.0348,-89.99 -124.9769,-103.0171 -232.9981,-148.9632 -427.9901,-225.0164 -410.0005,-209.0117 -291.0201,-139.9891 -372.987,-150.9896 -227.994,-94.9941 -230.0205,-108.0211 -40.2391,-23.0351 c -0.7433,-0.1955 -269.9092,-70.9932 -381.7545,-86.971 -52.9998,-8 -114.2636,-11.7497 -175.5136,-11.1247 z"
+           transform="translate(350.14728,784.32992)" />
+        <path
+           fill="#ffffff"
+           fill-rule="evenodd"
+           fill-opacity="1"
+           d="m 3970.0339,5634.2261 c 0,0 72,-41 188,-57 121.9999,-16 176.9999,-25 276.9999,-12 109,14 211,43 211,43 0,0 26,81 38,105 9,19 22,39 36,54 22,24 41,36 67,56 17,13 100,58 100,58 0,0 -270,-71 -382,-87 -106,-16 -244.745,-13.2241 -350.7449,5.7759 -127,22 -237.2321,65.2498 -237.2321,65.2498 0,0 11.9771,-43.0257 30.9771,-110.0257 15,-55 21.9996,-118.1751 21.9996,-118.1751"
+           id="path292-5"
+           style="display:none;stroke-width:1.34095"
+           inkscape:label="首の白"
+           sodipodi:nodetypes="ccccccccccccc" />
+        <path
+           id="path277-6"
+           style="display:inline;fill:#008000;fill-opacity:1;stroke-width:1.34095"
+           inkscape:label="頭の緑"
+           d="m 3142.9722,3003.0046 -50.9915,54.0105 -52.9767,70.9664 -39.991,64.0186 -31.0167,84.986 -18.9823,83.9934 -24.0277,80.0233 -33.9944,67.9888 -49.999,50.9916 c 0,0 -14.8737,14.9104 -14.8881,14.888 l 129.3607,236.1411 -140.8162,199.624 84.3656,22.3734 110.9988,44.995 41.976,49.999 43.0099,72.0003 67.9888,68.9813 80.0233,71.0078 94.994,72.0003 113.9763,67.9887 74.0268,69.0227 52.9766,57.9807 26.0128,80.0233 11.0006,86.971 1.4888,26.5504 2.3986,52.1909 c 0.01,-0.3762 4.0398,-1.7289 4.0942,-1.737 0,0 72.0032,-40.9881 188.003,-56.9881 121.9999,-16 177.0006,-24.9932 277.0005,-11.9932 102.6628,13.1861 196.0342,38.8574 206.9026,41.8934 l -2.8949,-9.8841 3.019,-125.0182 32.0093,-132.0075 75.9704,-105.9946 89.99,-71.0078 101.032,-72.0002 73.9854,-75.9705 53.018,-69.0226 70.9664,-123.9844 35.0283,-104.0096 22.9937,-144.9931 11.0006,-139.9891 -5.004,-151.031 -16.0047,-132.9999 -32.0093,-102.9757 -57.9807,-135.0264 -66.0037,-107.9798 -17.6588,-16.9971 z m 546.5984,142.7185 c 244.7751,18.0855 434.2076,221.8358 434.4416,467.2781 0.1742,124.4183 -49.0946,243.8076 -136.9635,331.8927 -87.8689,88.0851 -207.1368,137.6472 -331.5551,137.7789 -124.4183,0.1316 -243.7907,-49.178 -331.8458,-137.077 -88.0551,-87.8989 -137.5765,-207.1837 -137.6656,-331.6021 -0.1523,-130.4912 54.0678,-255.1463 149.6292,-344.0058 95.5614,-88.8594 223.8232,-133.8884 353.9592,-124.2648 z"
+           transform="translate(350.14728,784.32992)"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccssscsc" />
+        <path
+           fill="#000000"
+           fill-rule="evenodd"
+           fill-opacity="1"
+           d="m 4039,3623 a 159.00079,159.00079 0 1 1 -318,1 159.00079,159.00079 0 1 1 318,-1"
+           id="path303-5"
+           style="display:inline;fill:#008000;stroke:none;stroke-width:1.34095"
+           inkscape:label="黒目"
+           transform="translate(350.14728,784.32992)" />
+        <path
+           fill="url(#_grad_9_0_001)"
+           fill-rule="evenodd"
+           fill-opacity="1"
+           d="m 3176.2665,4359.2235 -57.1187,14.1187 -74,13 -90,5 -103,-2 -114,5 -87,13 -101,13 -103,29 -77,40 -58,45 -21,58 13,59 51,63 60.1796,33.3131 85,24 135,15 198,3 h 151 l 177.7625,9.1276 143.5229,-203.4407"
+           id="path277-5-1-5"
+           style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+           sodipodi:nodetypes="ccccccccccccccccccccc"
+           inkscape:label="くちばし色" />
+      </g>
+      <g
+         id="g21-4"
+         inkscape:label="カモライン"
+         style="display:inline;stroke-width:1.34095"
+         transform="matrix(0.0124956,0,0,0.0124956,158.21554,16.36877)">
+        <path
+           id="path3"
+           style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:label="後側"
+           d="m 6688.2602,7921.5426 c 49.3175,-34.9282 101.6735,-75.5644 146.8871,-105.2127 65.9998,-43 134.0002,-92 196,-141 57.9998,-46 116.0002,-96.0002 169,-148 44,-43 86,-82.0002 118,-134 21,-35 32,-82 34,-123 2,-44 -24,-85 -49,-121 -25,-36 -62,-67 -95,-96 -48,-42 -98.0002,-84 -151,-119 -58.9998,-39 -123.0002,-74 -185,-108 -117.9998,-63.9998 -238.0002,-127.0002 -357,-188 -141.9998,-73.9998 -286.0002,-148.0002 -429,-220 -92.9998,-47 -185.0002,-97 -280,-140 -110.9998,-50 -227.0002,-94 -339,-140 -85.9998,-35 -174.0002,-71 -259,-108 -88.9998,-39 -178.0002,-80 -265,-122 -49,-24 -100,-50 -145,-80 -29,-19 -58,-43 -79,-71 -26,-35 -52,-74 -64,-116 -11,-40 -16,-82 -12,-124 4,-48 12,-100 27,-146 14,-42 41,-89 70,-122 41,-46 100,-75 148,-114 35,-29 72,-59 103,-92 36,-39 74,-81 101,-127 29,-49 55,-104.0002 71,-159 26,-87.9998 44,-179.0002 49,-270 6,-107.9998 -7,-224.0002 -23,-325 -10,-68.9998 -35,-123.0002 -61,-188 -20,-50.9998 -43,-99 -79,-144 -7.3544,-9.3972 -21.3861,-24.9711 -36.707,-41.4697" />
+        <path
+           id="path2"
+           style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:label="前側"
+           d="m 3847.5847,7921.8268 c -67.234,-53.9697 -136.1857,-110.7725 -176.4374,-144.4969 -53.9998,-45 -105,-96.0002 -152,-148 -59.9998,-64.9998 -128,-129.0002 -173,-205 -55.9998,-93.9998 -121,-194.0002 -130,-303 -12,-143.9998 21,-294.0002 67,-431 33,-99.9998 104.0002,-187.0002 169,-271 48,-61.9998 114.0002,-111.0002 169,-166 46,-46 97,-90.0002 138,-141 43,-53.9998 81,-116.0002 116,-176 28,-48 57,-99.0002 74,-152 14,-45 20,-94 21,-141 1,-60.9998 4,-126.0002 -14,-184 -16,-51.9998 -50,-102 -88,-141 -39,-40 -95,-62 -141,-95 -61.9998,-44 -126.0002,-88.0001 -183,-138 -39,-34 -73,-76 -106,-116 -25,-31 -46,-76 -78,-99 -47,-34 -139.0002,-63 -197,-70 -169.9996,-22 -292.0004,-2 -463,-15 -84.9998,-6 -156.0002,-10 -238,-34 -45,-13 -104,-40 -137,-74 -19,-20 -41,-59 -37,-86 4,-27 31,-75 54,-90 49,-33 87.0002,-47 144,-64 67.9998,-21 147.0002,-27 217,-38 60.9998,-9 329.0002,-11 398,-23 38,-6 79,-23 107,-49 29,-26 52,-63 68,-99 24,-55.9998 31,-119.0002 52,-176 18,-49 38,-101 67,-145 23.7559,-36.7834 68.0656,-84.1373 105.9276,-122.7107" />
+        <path
+           fill="none"
+           stroke="#663300"
+           stroke-width="79.1774"
+           d="m 2312.4793,4595.3299 h 963.61"
+           id="Fig_5-3"
+           jsh:plane="B"
+           jsh:type="line"
+           style="display:inline;stroke:#008000;stroke-width:80.8285;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:label="くちばし" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-width="80.4566"
+           visibility="hidden"
+           d="m 4124,3613 a 469.00027,469.00027 0 1 1 -938,1 469.00027,469.00027 0 1 1 938,-1"
+           id="Fig_6_0-6"
+           jsh:type="ellipse"
+           jsh:cx="3655"
+           jsh:cy="3613"
+           jsh:rx="469"
+           jsh:ry="469"
+           jsh:rotate="0"
+           style="display:none"
+           inkscape:label="目玉（表示しない）"
+           transform="translate(350.14728,784.32992)" />
+      </g>
+    </g>
+    <g
+       id="g2"
+       inkscape:label="ねぎ"
+       style="display:inline">
+      <g
+         id="Fig_14-8"
+         jsh:plane="C"
+         jsh:type="component"
+         jsh:x="5155"
+         jsh:y="5958"
+         jsh:width="1682"
+         jsh:height="2076"
+         jsh:cx="0"
+         jsh:cy="0"
+         jsh:rx="0"
+         jsh:ry="0"
+         style="display:inline;stroke-width:1.34095"
+         inkscape:label="右2"
+         transform="matrix(0.0124956,0,0,0.0124956,162.59084,26.169443)">
+        <g
+           id="g19-6"
+           inkscape:label="右2色"
+           style="stroke-width:1.34095">
+          <path
+             id="path464-9"
+             style="fill:#fdfffd;fill-opacity:1;stroke-width:1.34095"
+             d="m 6192.0042,6308.9794 -606.1919,828.1894 h 659.4994 l 384.6907,-525.1761 -97.0204,75.0192 -80.9745,45.9876 -104.0096,33.0018 -84.986,-10.0081 -49.0065,-32.0093 -50.9916,-59.9657 -22.0012,-65.0112 -5.9966,-72.0003 22.0013,-102.0245 z" />
+          <path
+             fill="#ffffff"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 6681,6538 a 265,439 36.031 1 1 -429,-311 265,439 36.031 1 1 429,311"
+             id="path449-9"
+             style="display:inline;fill:#fdfffd;fill-opacity:1;stroke-width:1.34095"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g20-7"
+           inkscape:label="右2ライン"
+           style="display:inline;stroke:#008000;stroke-width:1.34095">
+          <path
+             id="path26"
+             style="fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="m 6257,6220 -666.4632,917.0085" />
+          <path
+             id="path27"
+             style="fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="m 6684,6530 -441.8805,607.0184" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="80.4566"
+             d="m 6686,6532 a 265,439 36.031 1 1 -429,-311 265,439 36.031 1 1 429,311"
+             id="Fig_14_7-0"
+             jsh:type="ellipse"
+             jsh:cx="6471"
+             jsh:cy="6376"
+             jsh:rx="265"
+             jsh:ry="439"
+             jsh:rotate="36"
+             style="display:inline;stroke:#008000;stroke-opacity:1"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g18-6"
+           inkscape:label="右2切り口"
+           style="stroke:#008000;stroke-width:1.34095">
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 6627,6479 a 184,305 36.031 1 1 -297,-217 184,305 36.031 1 1 297,217"
+             id="Fig_14_4-3"
+             jsh:type="ellipse"
+             jsh:cx="6478"
+             jsh:cy="6370"
+             jsh:rx="184"
+             jsh:ry="305"
+             jsh:rotate="36"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 6581,6445 a 125.31742,208.52818 36.031 1 1 -203,-147 125.31742,208.52818 36.031 1 1 203,147"
+             id="Fig_14_5-5"
+             jsh:type="ellipse"
+             jsh:cx="6479"
+             jsh:cy="6371"
+             jsh:rx="125"
+             jsh:ry="208"
+             jsh:rotate="36"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 6522,6412 a 57.310177,95.516962 36.031 1 1 -93,-67 57.310177,95.516962 36.031 1 1 93,67"
+             id="Fig_14_6-5"
+             jsh:type="ellipse"
+             jsh:cx="6475"
+             jsh:cy="6378"
+             jsh:rx="57"
+             jsh:ry="95"
+             jsh:rotate="36"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="Fig_15-1"
+         jsh:plane="C"
+         jsh:type="component"
+         jsh:x="4637"
+         jsh:y="5958"
+         jsh:width="1682"
+         jsh:height="2076"
+         jsh:cx="0"
+         jsh:cy="0"
+         jsh:rx="0"
+         jsh:ry="0"
+         style="display:inline;stroke-width:1.34095"
+         inkscape:label="右1"
+         transform="matrix(0.0124956,0,0,0.0124956,162.59084,26.169443)">
+        <g
+           id="g16-9"
+           inkscape:label="右1色"
+           style="display:inline;stroke-width:1.34095">
+          <path
+             id="path490-9"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             d="m 5673.9826,6308.9794 -606.1918,828.1894 h 659.4993 l 384.6908,-525.1761 -96.9791,75.0192 -81.0158,45.9876 -103.9683,33.0018 -85.0273,-10.0081 -49.0065,-32.0093 -50.9916,-59.9657 -22.0012,-65.0112 -5.9966,-72.0003 22.0012,-102.0245 z" />
+          <path
+             fill="#ffffff"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 6163,6538 a 265,439 36.031 1 1 -429,-311 265,439 36.031 1 1 429,311"
+             id="path475-1"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g17-8"
+           inkscape:label="右1ライン"
+           style="display:inline;stroke:#008000;stroke-width:1.34095">
+          <path
+             id="path23"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="m 5739,6220 -666.4577,917.0011" />
+          <path
+             id="path24"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="m 6166,6530 -441.8859,607.0268" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="80.4566"
+             d="m 6168,6532 a 265,439 36.031 1 1 -429,-311 265,439 36.031 1 1 429,311"
+             id="Fig_15_7-5"
+             jsh:type="ellipse"
+             jsh:cx="5953"
+             jsh:cy="6376"
+             jsh:rx="265"
+             jsh:ry="439"
+             jsh:rotate="36"
+             style="display:inline;stroke:#008000;stroke-opacity:1"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g15-8"
+           inkscape:label="右1切り口"
+           style="stroke:#008000;stroke-width:1.34095">
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 6109,6479 a 184,305 36.031 1 1 -297,-217 184,305 36.031 1 1 297,217"
+             id="Fig_15_4-1"
+             jsh:type="ellipse"
+             jsh:cx="5960"
+             jsh:cy="6370"
+             jsh:rx="184"
+             jsh:ry="305"
+             jsh:rotate="36"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 6063,6445 a 125.31742,208.52818 36.031 1 1 -203,-147 125.31742,208.52818 36.031 1 1 203,147"
+             id="Fig_15_5-3"
+             jsh:type="ellipse"
+             jsh:cx="5961"
+             jsh:cy="6371"
+             jsh:rx="125"
+             jsh:ry="208"
+             jsh:rotate="36"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 6004,6412 a 57.310177,95.516962 36.031 1 1 -93,-67 57.310177,95.516962 36.031 1 1 93,67"
+             id="Fig_15_6-8"
+             jsh:type="ellipse"
+             jsh:cx="5957"
+             jsh:cy="6378"
+             jsh:rx="57"
+             jsh:ry="95"
+             jsh:rotate="36"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="Fig_10-0"
+         jsh:plane="C"
+         jsh:type="component"
+         jsh:x="2426"
+         jsh:y="5687"
+         jsh:width="960"
+         jsh:height="2331"
+         jsh:cx="0"
+         jsh:cy="0"
+         jsh:rx="0"
+         jsh:ry="0"
+         style="display:inline;stroke-width:1.34095"
+         inkscape:label="左4"
+         transform="matrix(0.0124956,0,0,0.0124956,162.59084,26.169443)">
+        <g
+           id="g13-7"
+           inkscape:label="左4色"
+           style="display:inline;stroke-width:1.34095">
+          <path
+             id="path360-1"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             d="m 2801.002,6204.0187 -195.4471,932.9846 h 543.7034 l 175.7618,-837.9906 -58.0221,108.9723 -54.0105,75.0192 -81.967,72.9929 -81.0159,26.0127 -58.022,-9.0155 -70.9664,-33.9944 -47.0214,-49.9991 -34.987,-62.9847 -22.9937,-102.0245 z" />
+          <path
+             fill="#ffffff"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 3340,6211 a 265,439 11.625 1 1 -519,-107 265,439 11.625 1 1 519,107"
+             id="path345-6"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g14-4"
+           inkscape:label="左4ライン"
+           style="stroke:#008000;stroke-width:1.34095">
+          <path
+             id="path19"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="M 2823,6096 2609.0859,7137.0097" />
+          <path
+             id="path20"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="m 3340,6202 -193.1813,935.0185" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="80.4566"
+             d="m 3342,6204 a 265,439 11.625 1 1 -519,-107 265,439 11.625 1 1 519,107"
+             id="Fig_10_7-8"
+             jsh:type="ellipse"
+             jsh:cx="3082"
+             jsh:cy="6150"
+             jsh:rx="265"
+             jsh:ry="439"
+             jsh:rotate="11"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+        </g>
+        <g
+           id="g12-8"
+           inkscape:label="左4切り口"
+           style="display:inline;stroke:#008000;stroke-width:1.34095"
+           transform="translate(-5.0618049e-6)">
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 3267,6180 a 184.35406,305.58689 11.625 1 1 -361,-75 184.35406,305.58689 11.625 1 1 361,75"
+             id="Fig_10_4-9"
+             jsh:type="ellipse"
+             jsh:cx="3086"
+             jsh:cy="6142"
+             jsh:rx="184"
+             jsh:ry="305"
+             jsh:rotate="11"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 3211,6168 a 125.12572,208.20919 11.625 1 1 -245,-51 125.12572,208.20919 11.625 1 1 245,51"
+             id="Fig_10_5-7"
+             jsh:type="ellipse"
+             jsh:cx="3088"
+             jsh:cy="6142"
+             jsh:rx="125"
+             jsh:ry="208"
+             jsh:rotate="11"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 3143,6162 a 57,95 11.625 1 1 -111,-23 57,95 11.625 1 1 111,23"
+             id="Fig_10_6-2"
+             jsh:type="ellipse"
+             jsh:cx="3087"
+             jsh:cy="6150"
+             jsh:rx="57"
+             jsh:ry="95"
+             jsh:rotate="11"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="Fig_11-4"
+         jsh:plane="C"
+         jsh:type="component"
+         jsh:x="1900"
+         jsh:y="5616"
+         jsh:width="960"
+         jsh:height="2331"
+         jsh:cx="0"
+         jsh:cy="0"
+         jsh:rx="0"
+         jsh:ry="0"
+         style="display:inline;stroke-width:1.34095"
+         inkscape:label="左3"
+         transform="matrix(0.0124956,0,0,0.0124956,162.59084,26.169443)">
+        <g
+           id="g11-5"
+           inkscape:label="左3色"
+           style="stroke-width:1.34095">
+          <path
+             id="path386-8"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             d="m 2274.9988,6133.0109 -210.3351,1003.9924 h 543.7034 l 190.6498,-908.9983 -58.0221,109.0136 -54.0105,74.9779 -81.967,72.9928 -81.0158,26.0128 -58.0221,-9.0156 -70.9664,-33.9944 -47.0214,-49.999 -34.9869,-62.9848 -22.9938,-102.0245 z" />
+          <path
+             fill="#ffffff"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 2814,6140 a 265,439 11.625 1 1 -519,-107 265,439 11.625 1 1 519,107"
+             id="path371-3"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g9-6"
+           inkscape:label="左3ライン"
+           style="display:inline;stroke:#008000;stroke-width:1.34095">
+          <path
+             id="path15"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="M 2297,6025 2068.4994,7136.9947"
+             transform="translate(-5.0618049e-6)" />
+          <path
+             id="path16"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="M 2814,6131 2606.152,7137.0067"
+             transform="translate(-5.0618049e-6)" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="80.4566"
+             d="m 2816,6133 a 265,439 11.625 1 1 -519,-107 265,439 11.625 1 1 519,107"
+             id="Fig_11_7-7"
+             jsh:type="ellipse"
+             jsh:cx="2556"
+             jsh:cy="6079"
+             jsh:rx="265"
+             jsh:ry="439"
+             jsh:rotate="11"
+             style="display:inline;stroke:#008000;stroke-opacity:1"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g10-2"
+           inkscape:label="左3切り口"
+           style="display:inline;stroke:#008000;stroke-width:1.34095"
+           transform="translate(-5.0618049e-6)">
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 2741,6109 a 184.35406,305.58689 11.625 1 1 -361,-75 184.35406,305.58689 11.625 1 1 361,75"
+             id="Fig_11_4-7"
+             jsh:type="ellipse"
+             jsh:cx="2560"
+             jsh:cy="6071"
+             jsh:rx="184"
+             jsh:ry="305"
+             jsh:rotate="11"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 2685,6097 a 125.12572,208.20919 11.625 1 1 -245,-51 125.12572,208.20919 11.625 1 1 245,51"
+             id="Fig_11_5-9"
+             jsh:type="ellipse"
+             jsh:cx="2562"
+             jsh:cy="6071"
+             jsh:rx="125"
+             jsh:ry="208"
+             jsh:rotate="11"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 2617,6091 a 57,95 11.625 1 1 -111,-23 57,95 11.625 1 1 111,23"
+             id="Fig_11_6-9"
+             jsh:type="ellipse"
+             jsh:cx="2561"
+             jsh:cy="6079"
+             jsh:rx="57"
+             jsh:ry="95"
+             jsh:rotate="11"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="Fig_12-6"
+         jsh:plane="C"
+         jsh:type="component"
+         jsh:x="1461"
+         jsh:y="5341"
+         jsh:width="979"
+         jsh:height="2330"
+         jsh:cx="0"
+         jsh:cy="0"
+         jsh:rx="0"
+         jsh:ry="0"
+         style="display:inline;stroke-width:1.34095"
+         inkscape:label="左2"
+         transform="matrix(0.0124956,0,0,0.0124956,162.59084,26.169443)">
+        <g
+           id="g7-3"
+           inkscape:label="左2色"
+           style="display:inline;stroke-width:1.34095">
+          <path
+             id="path412-2"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             d="m 2047.9973,5841.9908 -7.9816,122.9919 -20.0162,91.0239 -44.995,99.9981 -62.9847,55.9956 -57.0295,15.0121 -78.9894,-2.0264 -62.9848,-27.0053 -57.0295,-41.976 -62.9847,-83.9934 -61.9922,-104.0096 250.781,1169.0016 h 543.538 z"
+             transform="translate(-5.0618049e-6)" />
+          <path
+             fill="#ffffff"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 1861,6240 a 439,265 77.703 1 1 -187,-857 439,265 77.703 1 1 187,857"
+             id="path397-4"
+             style="display:inline;stroke-width:1.34095"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g8-7"
+           inkscape:label="左2ライン"
+           style="display:inline;stroke:#008000;stroke-width:1.34095">
+          <path
+             id="path12"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none"
+             d="m 1502.012,5887.6509 272.8821,1249.365" />
+          <path
+             id="path13"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="m 2039.2004,5757.4972 299.759,1379.5112" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="80.4566"
+             d="m 1860,6233 a 439,265 77.703 1 1 -187,-857 439,265 77.703 1 1 187,857"
+             id="Fig_12_7-8"
+             jsh:type="ellipse"
+             jsh:cx="1766"
+             jsh:cy="5804"
+             jsh:rx="439"
+             jsh:ry="265"
+             jsh:rotate="77"
+             sodipodi:insensitive="true"
+             style="display:inline;stroke:#008000" />
+        </g>
+        <g
+           id="g6-7"
+           inkscape:label="左2切り口"
+           style="display:inline;stroke:#008000;stroke-width:1.34095"
+           transform="translate(-5.0618049e-6)">
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 1831,6094 a 305.38997,184.23526 77.703 1 1 -129,-597 305.38997,184.23526 77.703 1 1 129,597"
+             id="Fig_12_4-3"
+             jsh:type="ellipse"
+             jsh:cx="1766"
+             jsh:cy="5795"
+             jsh:rx="305"
+             jsh:ry="184"
+             jsh:rotate="77"
+             sodipodi:insensitive="true"
+             style="display:inline;stroke:#008000" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 1813,5998 a 208.30875,125.18554 77.703 1 1 -89,-407 208.30875,125.18554 77.703 1 1 89,407"
+             id="Fig_12_5-1"
+             jsh:type="ellipse"
+             jsh:cx="1768"
+             jsh:cy="5794"
+             jsh:rx="208"
+             jsh:ry="125"
+             jsh:rotate="77"
+             sodipodi:insensitive="true"
+             style="display:inline;stroke:#008000" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 1792,5895 a 95,57 77.703 1 1 -41,-185 95,57 77.703 1 1 41,185"
+             id="Fig_12_6-9"
+             jsh:type="ellipse"
+             jsh:cx="1771"
+             jsh:cy="5802"
+             jsh:rx="95"
+             jsh:ry="57"
+             jsh:rotate="77"
+             sodipodi:insensitive="true"
+             style="display:inline;stroke:#008000" />
+        </g>
+      </g>
+      <g
+         id="Fig_13-4"
+         jsh:plane="C"
+         jsh:type="component"
+         jsh:x="744"
+         jsh:y="5974"
+         jsh:width="1585"
+         jsh:height="2136"
+         jsh:cx="0"
+         jsh:cy="0"
+         jsh:rx="0"
+         jsh:ry="0"
+         style="display:inline;stroke-width:1.34095"
+         inkscape:label="左1"
+         transform="matrix(0.0124956,0,0,0.0124956,162.59084,26.169443)">
+        <g
+           id="g5-2"
+           inkscape:label="左1色"
+           style="display:inline;stroke-width:1.34095">
+          <path
+             id="path438-4"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             inkscape:label="左1本体"
+             d="m 1377.001,6339.0037 33.0019,117.9878 13.9782,91.0239 -6.9891,109.9648 -40.9835,75.0193 -47.0214,33.9944 -73.9854,26.0127 -70.0152,-4.0115 -68.9813,-22.0012 -87.0124,-55.0031 -94.00152,-77.9969 318.43892,503.0094 h 627.7382 z"
+             transform="translate(-5.0618049e-6)" />
+          <path
+             fill="#ffffff"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 1339,6779 a 439.54807,265.33084 57.453 1 1 -473,-741 439.54807,265.33084 57.453 1 1 473,741"
+             id="path423-1"
+             style="display:inline;stroke-width:1.34095"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g4-6"
+           inkscape:label="左1ライン"
+           style="display:inline;stroke:#008000;stroke-width:1.34095">
+          <path
+             id="path8"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="m 875,6542 379.8932,594.9855" />
+          <path
+             id="path9"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1321,6258 558.5942,879.0148" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="80.4566"
+             d="m 1336,6772 a 439.54807,265.33084 57.453 1 1 -473,-741 439.54807,265.33084 57.453 1 1 473,741"
+             id="Fig_13_7-3"
+             jsh:type="ellipse"
+             jsh:cx="1099"
+             jsh:cy="6401"
+             jsh:rx="439"
+             jsh:ry="265"
+             jsh:rotate="57"
+             style="display:inline;stroke:#008000;stroke-opacity:1"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g23-2"
+           inkscape:label="左1切り口"
+           style="display:inline;stroke:#008000;stroke-width:1.34095">
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 1261,6650 a 305.55937,184.33746 57.453 1 1 -329,-515 305.55937,184.33746 57.453 1 1 329,515"
+             id="Fig_13_4-1"
+             jsh:type="ellipse"
+             jsh:cx="1096"
+             jsh:cy="6392"
+             jsh:rx="305"
+             jsh:ry="184"
+             jsh:rotate="57"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 1209,6567 a 208,125 57.453 1 1 -223,-351 208,125 57.453 1 1 223,351"
+             id="Fig_13_5-3"
+             jsh:type="ellipse"
+             jsh:cx="1097"
+             jsh:cy="6391"
+             jsh:rx="208"
+             jsh:ry="125"
+             jsh:rotate="57"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#003333"
+             stroke-width="42.9101"
+             d="m 1156,6479 a 95.564215,57.338529 57.453 1 1 -103,-161 95.564215,57.338529 57.453 1 1 103,161"
+             id="Fig_13_6-0"
+             jsh:type="ellipse"
+             jsh:cx="1104"
+             jsh:cy="6398"
+             jsh:rx="95"
+             jsh:ry="57"
+             jsh:rotate="57"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1"
+       inkscape:label="鍋"
+       style="display:inline">
+      <g
+         id="Fig_16-9"
+         jsh:plane="D"
+         jsh:type="component"
+         jsh:x="76"
+         jsh:y="7107"
+         jsh:width="7362"
+         jsh:height="2048"
+         jsh:cx="7362"
+         jsh:cy="2048"
+         jsh:rx="0"
+         jsh:ry="0"
+         style="display:inline;stroke-width:1.34095"
+         inkscape:label="鍋（下）"
+         transform="matrix(0.0124956,0,0,0.0124956,162.59084,26.169443)">
+        <g
+           id="Fig_16_0-0"
+           jsh:type="gradation"
+           jsh:gradationType="34"
+           jsh:startColor="#ffffff"
+           jsh:endColor="#ffcc00"
+           jsh:extGradInfo="data:;base64,AQAgAEMEAADMBwAAQwQAAAAAAAAAAAAAAAAAAAAAAAD="
+           style="display:none;stroke-width:1.34095"
+           inkscape:label="鍋（下）着色">
+          <defs
+             id="defs506-4" />
+          <path
+             fill="url(#_grad_9_16_0_011)"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 141,7134 7245,-6 -3,80 -27,68 -52,56 -90,45 -188,40 -511,71 -275,35 v 84 l -13,117 -19,105 -37,120 -42,103 -64,124 -82,106 -98,106 -119,103 -166,106 -154,100 -164,98 -180,88 -153,60 -180,53 -167,40 -254,45 -174,24 -204,18 h -281 l -338,-13 -318,-48 -180,-34 -137,-34 -212,-74 -153,-67 -122,-66 -214,-127 -122,-84 -138,-85 -140,-124 -71,-67 -114,-169 -72,-151 -55,-172 -19,-158 -2,-120 -945,-148 -87,-29 -58,-45 -40,-53 -16,-84 3,-37"
+             id="path508-4"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             inkscape:label="鍋（下）本体の色" />
+        </g>
+        <g
+           id="g25-5"
+           inkscape:label="鍋（下）ライン"
+           style="display:inline;stroke:#008000;stroke-width:1.34095">
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             stroke-linejoin="bevel"
+             d="m 7382,7147 c 1,37 2,73 -13,103 -18,36 -49,71 -85,90 -62,33 -134,51 -204,63 -279,48 -584,87 -867,122"
+             id="Fig_16_1-3"
+             jsh:type="bezier"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             stroke-linejoin="bevel"
+             d="m 6239,7515 c 1,87 -1,181 -21,264 -29,121 -69,244 -130,352 -58,103 -142,193 -227,275 -72,69 -161,121 -244,177 -84,57 -170,116 -259,165 -110,61 -223,123 -341,169 -124,48 -254,87 -384,114 -182,38 -368,67 -553,84 -130,12 -262,9 -394,6"
+             id="Fig_16_2-7"
+             jsh:type="bezier"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             stroke-linejoin="bevel"
+             d="m 136,7146 c -1,37 -2,73 13,103 18,36 49,71 85,90 62,33 134,51 204,63 279,48 584,87 867,122"
+             id="Fig_16_3-7"
+             jsh:type="bezier"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             stroke-linejoin="bevel"
+             d="m 1279,7514 c -1,87 1,181 21,264 29,121 69,244 130,352 58,103 142,193 227,275 72,69 161,121 244,177 84,57 170,116 259,165 110,61 223,123 341,169 124,48 254,87 384,114 182,38 368,67 553,84 130,12 262,9 394,6"
+             id="Fig_16_4-4"
+             jsh:type="bezier"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4821"
+             d="M 7412.6417,7137 H 106"
+             id="Fig_16_5-5"
+             jsh:type="line"
+             style="display:inline;stroke:#008000;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="Fig_8-5"
+         jsh:plane="D"
+         jsh:type="component"
+         jsh:x="1143"
+         jsh:y="1009"
+         jsh:width="5151"
+         jsh:height="2034"
+         jsh:cx="5151"
+         jsh:cy="2034"
+         jsh:rx="0"
+         jsh:ry="0"
+         style="display:inline;stroke-width:1.34095"
+         inkscape:label="鍋（上）"
+         transform="matrix(0.0124956,0,0,0.0124956,162.59084,26.169443)">
+        <g
+           id="Fig_8_0-1"
+           jsh:type="gradation"
+           jsh:gradationType="34"
+           jsh:startColor="#ffcc00"
+           jsh:endColor="#ffffff"
+           jsh:extGradInfo="data:;base64,AQAgABABAADqAQAAEAEAAAAAAAAAAAAAAAAAAAAAAAD="
+           style="display:none;stroke-width:1.34095"
+           inkscape:label="鍋（上）着色">
+          <defs
+             id="defs312-6" />
+          <path
+             fill="url(#_grad_9_8_1_004)"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 1201,2995 26,-201 59,-207 90,-174 174,-225 138,-119 164,-117 196,-129 235,-119 236,-93 365,-98 79,-13 1564,8 233,58 164,48 198,79 244,109 222,148 222,169 161,161 93,135 101,199 47,172 24,217 -5032,-11"
+             id="path325-7"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             inkscape:label="鍋（上）本体の色"
+             transform="translate(-5.0618049e-6)" />
+          <path
+             fill="url(#_grad_9_8_0_003)"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 2910,1497 -61,-198 -26,-130 29,-74 50,-40 72,-21 1529,8 56,21 45,40 15,64 -13,66 -82,277 -1614,-5"
+             id="path314-5"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34095"
+             inkscape:label="鍋（上）ふちの色"
+             transform="translate(-5.0618049e-6)" />
+          <path
+             fill="#660000"
+             fill-rule="evenodd"
+             fill-opacity="1"
+             d="m 4675,1957 a 62.002016,62.002016 0 1 1 -124,1 62.002016,62.002016 0 1 1 124,-1"
+             id="path336-4"
+             style="display:inline;fill:#008000;fill-opacity:1;stroke-width:1.34095"
+             inkscape:label="鍋（上）穴の色"
+             transform="translate(-5.0618049e-6)" />
+        </g>
+        <g
+           id="g26-6"
+           inkscape:label="鍋（上）ライン"
+           style="display:inline;stroke:#008000;stroke-width:1.34095"
+           transform="translate(-5.0618049e-6)">
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             stroke-linejoin="bevel"
+             d="m 4494,1500 c 140,30 279,60 413,105 131,44 261,100 384,163 110,56 216,126 318,197 85,59 171,120 243,194 84,86 165,182 226,286 56,95 94,203 123,310 23,83 30,171 36,258"
+             id="Fig_8_3-8"
+             jsh:type="bezier"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             d="m 4457,1041 a 137,137 0 0 1 154,171"
+             id="Fig_8_4-0"
+             jsh:type="arc"
+             jsh:cx="4478"
+             jsh:cy="1176"
+             jsh:rx="137"
+             jsh:ry="137"
+             jsh:rotate="0"
+             jsh:startAngle="260"
+             jsh:endAngle="14"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             d="m 4615,1192 -92,320"
+             id="Fig_8_5-5"
+             jsh:type="line"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             d="M 2910,1507 H 4525"
+             id="Fig_8_6-2"
+             jsh:type="line"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             d="M 2954,1042 H 4462"
+             id="Fig_8_7-9"
+             jsh:type="line"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="95.455"
+             d="M 1170.0711,3003 H 6266.9289"
+             id="Fig_8_8-3"
+             jsh:type="line"
+             style="display:inline;fill:none;stroke:#008000;stroke-width:80.8285;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:label="下線" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             stroke-linejoin="bevel"
+             d="m 2943,1500 c -140,30 -279,60 -413,105 -131,44 -261,100 -384,163 -110,56 -216,126 -318,197 -85,59 -171,120 -243,194 -84,86 -165,182 -226,286 -56,95 -94,203 -123,310 -23,83 -30,171 -36,258"
+             id="Fig_8_11-8"
+             jsh:type="bezier"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             d="m 2827,1212 a 137,137 0 0 1 155,-171"
+             id="Fig_8_12-9"
+             jsh:type="arc"
+             jsh:cx="2959"
+             jsh:cy="1176"
+             jsh:rx="137"
+             jsh:ry="137"
+             jsh:rotate="0"
+             jsh:startAngle="165"
+             jsh:endAngle="279"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             d="m 2822,1192 92,320"
+             id="Fig_8_13-0"
+             jsh:type="line"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#660000"
+             stroke-width="80.4566"
+             visibility="hidden"
+             d="m 4675,1957 a 62.002016,62.002016 0 1 1 -124,1 62.002016,62.002016 0 1 1 124,-1"
+             id="Fig_8_9_0-8"
+             jsh:type="ellipse"
+             jsh:cx="4613"
+             jsh:cy="1957"
+             jsh:rx="62"
+             jsh:ry="62"
+             jsh:rotate="0"
+             style="display:inline;fill:none;stroke:#008000;stroke-opacity:1"
+             inkscape:label="鍋（上）の穴" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
