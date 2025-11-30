@@ -258,6 +258,11 @@ main {
     z-index: 1;
 }
 
+:target {
+    scroll-margin-top: 50px;
+    /* 固定ヘッダー分の余白 */
+}
+
 /* フェードインアニメーション */
 @keyframes fadeIn {
     to {
