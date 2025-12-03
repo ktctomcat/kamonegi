@@ -1,4 +1,19 @@
-/* 共通スタイル */
+/* 全体の基本スタイル */
+html {
+    background-color: #666666;
+}
+
+/* body 全体の基本スタイル */
+body {
+    color: #333333;
+    background-color: #ffffff;
+    line-height: 1.6;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 400;
+}
 
 /* 見出しスタイル */
 h1 {
@@ -69,7 +84,7 @@ dt {
     font-weight: bold;
 }
 
-/* 画像 */
+/* 画像の基本スタイル */
 figure {
     margin: 0;
     display: flex;
@@ -95,23 +110,6 @@ iframe {
     border: 0;
     width: 100%;
     aspect-ratio: 16/9;
-}
-
-/* ボディ */
-body {
-    color: #333333;
-    background-color: #666666;
-    line-height: 1.6;
-    margin: 0;
-    border: 0;
-    padding: 0;
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-weight: 400;
-}
-
-/* ラッパー */
-.wrapper {
-    background-color: #ffffff;
 }
 
 /* ヘッダー */
@@ -296,8 +294,8 @@ footer {
 /* 画面幅が800px以上の場合 */
 @media screen and (min-width: 800px) {
 
-    /* ラッパー */
-    .wrapper {
+    /* body 全体の幅と中央寄せ */
+    body {
         width: 800px;
         /* PC表示での記事の幅（900pxは画像の幅に合わせる。100%は制限しない。） */
         margin: auto;
