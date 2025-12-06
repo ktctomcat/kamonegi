@@ -117,8 +117,8 @@ header {
     background-color: #ffff00;
     color: #ffffff;
     background-image:
-        url(../img/kamonegikun_title_left.svg),
-        url(../img/kamonegikun_title_right.svg);
+        url(../img/kamonegikun_title_left_S.svg),
+        url(../img/kamonegikun_title_right_S.svg);
     background-position:
         left top,
         right top;
@@ -311,9 +311,15 @@ footer {
 
     /* ヘッダー */
     header {
+        background-image:
+            url(../img/kamonegikun_title_left_L.svg),
+            url(../img/kamonegikun_title_right_L.svg);
+        /* 大きい画像に変更 */
         border-top-right-radius: 20px;
         border-top-left-radius: 20px;
         /* 角丸 */
+        height: 150px;
+        /* ヘッダーの高さ */
     }
 
     /* メイン */
