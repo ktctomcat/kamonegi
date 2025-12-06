@@ -56,8 +56,27 @@
 
         <h1>かもん！カモねぎくん</h1>
         <p>
-            ようこそ「かもん！カモねぎくん」のページへ！
+            <span id="greetingMessage"></span>ようこそ「かもん！カモねぎくん」のページへ！
         </p>
+
+        <script>
+            function getGreetingMessage() {
+                const hour = new Date().getHours();
+                if (hour >= 5 && hour < 12) {
+                    return "おはようございます、";
+                } else if (hour >= 12 && hour < 18) {
+                    return "こんにちは、";
+                } else {
+                    return "こんばんは、";
+                }
+            }
+
+            // ページ読み込み後に挨拶を反映
+            document.addEventListener("DOMContentLoaded", () => {
+                document.getElementById("greetingMessage").textContent = getGreetingMessage();
+            });
+        </script>
+
         <figure>
             <img src="img/kamonegikun/kamonegikun_rev305_color.svg" alt="カモねぎくんの画像" loading="lazy" decoding="async">
         </figure>
