@@ -55,23 +55,6 @@
         </nav>
 
         <h1>かもん！カモねぎくん</h1>
-
-        <img id="rand-img" alt="トップ画像">
-
-        <script>
-            (function () {
-                const images = [];
-                for (let i = 1; i <= 30; i++) {
-                    // 3桁ゼロ埋め (001, 002, …)
-                    const num = String(i).padStart(3, '0');
-                    images.push(`/img/photo/fes2025top/photo-fes2025-${num}.jpg`);
-                }
-
-                const pick = images[Math.floor(Math.random() * images.length)];
-                document.getElementById('rand-img').src = pick;
-            })();
-        </script>
-
         <p>
             <span id="greetingMessage"></span>ようこそ「かもん！カモねぎくん」のページへ！
         </p>
@@ -101,6 +84,24 @@
         </p>
         <p>
             画像データ等は<a href="graphic.html">こちら！</a>
+        </p>
+
+        <img id="rand-img" alt="ランダムに表示されるかもん！カモねぎまつりの画像" loading="lazy" decoding="async">
+        <script>
+            (function () {
+                const images = [];
+                for (let i = 1; i <= 30; i++) {
+                    // 3桁ゼロ埋め (001, 002, …)
+                    const num = String(i).padStart(3, '0');
+                    images.push(`img/photo/fes2025/photo-fes2025-${num}.jpg`);
+                }
+
+                const pick = images[Math.floor(Math.random() * images.length)];
+                document.getElementById('rand-img').src = pick;
+            })();
+        </script>
+        <p>
+            かもん！カモねぎまつり2025の様子です。ランダムに画像が表示されます。
         </p>
 
         <h2>かもん！カモねぎまつりとは？</h2>
