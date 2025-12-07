@@ -117,8 +117,8 @@ header {
     background-color: #ffff00;
     color: #ffffff;
     background-image:
-        url(../img/kamonegikun_title_left_S.svg),
-        url(../img/kamonegikun_title_right_S.svg);
+        url(../img/kamonegikun-title-left-S.svg),
+        url(../img/kamonegikun-title-right-S.svg);
     background-position:
         left top,
         right top;
@@ -139,7 +139,7 @@ header p {
 }
 
 /* グローバルナビゲーション */
-.global_nav {
+.global-nav {
     background-color: #00cc00;
     width: 100%;
     margin: 0;
@@ -151,7 +151,7 @@ header p {
 }
 
 /* ナビゲーションリストを横並びにする */
-.global_nav ul {
+.global-nav ul {
     max-width: 400px;
     display: flex;
     margin: auto;
@@ -160,7 +160,7 @@ header p {
 }
 
 /* ナビゲーションリストの各項目 */
-.global_nav li {
+.global-nav li {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     border-top: 1px solid #ffffff;
@@ -173,41 +173,41 @@ header p {
 }
 
 /* 最後の li の右側 */
-.global_nav ul li:last-child {
+.global-nav ul li:last-child {
     border-right: #ffffff 1px solid;
 }
 
 /* リンク色 */
-.global_nav ul li a {
+.global-nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
 
 /* 現在のページ色（li を指定しないと効かない） */
-.global_nav li.current {
+.global-nav li.current {
     background-color: #ffffff
 }
 
 /* 現在のページ色のリンク */
-.global_nav li.current a {
+.global-nav li.current a {
     color: #333333;
     font-weight: bolder;
 }
 
 /* マウスが乗ったときの色 */
-.global_nav ul li:hover {
+.global-nav ul li:hover {
     background-color: #ffff00;
 }
 
 /* マウスが乗ったときのリンク色 */
-.global_nav ul li a:hover {
+.global-nav ul li a:hover {
     color: #333333;
     font-weight: bolder;
 }
 
 /* ナビゲーションのアニメーション */
-.global_nav ul li,
-.global_nav ul li a {
+.global-nav ul li,
+.global-nav ul li a {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -236,8 +236,8 @@ header p {
 /* メイン */
 main {
     background-image:
-        url(../img/kakudayama_back.svg),
-        url(../img/kamonegikun_footprints.svg);
+        url(../img/kakudayama-back.svg),
+        url(../img/kamonegikun-footprints.svg);
     background-position:
         left bottom,
         right top;
@@ -312,8 +312,8 @@ footer {
     /* ヘッダー */
     header {
         background-image:
-            url(../img/kamonegikun_title_left_L.svg),
-            url(../img/kamonegikun_title_right_L.svg);
+            url(../img/kamonegikun-title-left-L.svg),
+            url(../img/kamonegikun-title-right-L.svg);
         /* 大きい画像に変更 */
         border-top-right-radius: 20px;
         border-top-left-radius: 20px;
@@ -337,7 +337,7 @@ footer {
     }
 
     /* ナビゲーションを左寄せにする */
-    .global_nav ul {
+    .global-nav ul {
         margin: 0;
         /* 0は左寄せ、センターリングはauto */
         margin-left: 1em;
