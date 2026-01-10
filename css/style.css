@@ -112,6 +112,10 @@ iframe {
     aspect-ratio: 16/9;
 }
 
+.map {
+    aspect-ratio: 1/1;
+}
+
 /* ヘッダー */
 header {
     background-color: #ffff00;
