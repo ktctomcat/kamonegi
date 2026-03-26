@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="潟東地域や新潟県内の地図情報を集めたページです。">
+    <meta name="keywords" content="かもん！カモねぎまつり,カモねぎまつり,カモねぎくん,カモネギ君,新潟,西蒲区,潟東">
+    <meta name="author" content="Tomoo Ito">
+    <title>三方山 XR プロジェクト | かもん！カモねぎくん</title>
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+
+    <!-- Responsive design -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <!-- Favicon -->
+    <link rel="icon" href="https://ktctomcat.github.io/kamonegi/icon/favicon.svg" type="image/svg+xml">
+    <!-- OGP tag -->
+    <meta property="og:title" content="かもん！カモねぎくん">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://ktctomcat.github.io/kamonegi/icon/ogp.png">
+    <meta property="og:url" content="https://ktctomcat.github.io/kamonegi/">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QDGV6SKH6H"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-QDGV6SKH6H');
+    </script>
+</head>
+
+<body>
+    <header>
+        <p>かもん！カモねぎくん</p>
+    </header>
+
+    <nav class="global-nav" aria-label="グローバルナビゲーション">
+        <ul class="navigate">
+            <li><a href="index.html">ホーム</a></li>
+            <li class="current"><a href="graphic.html">展示室</a></li>
+            <li><a href="information.html">情報局</a></li>
+            <li><a href="others.html">その他</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <nav class="breadcrumbs" aria-label="パンくずリスト">
+            <ol>
+                <li><a href="index.html">ホーム</a></li>
+                <li><a href="graphic.html">展示室</a></li>
+                <li>三方山 XR プロジェクト</li>
+            </ol>
+        </nav>
+
+        <h1>三方山 XR プロジェクト</h1>
+        <!-- ライブラリ読み込み -->
+        <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js">
+        </script>
+
+        <!-- 3Dモデル表示 -->
+        <model-viewer src="3D/sanbouyama/sanbouyama.glb" alt="3D model" camera-controls auto-rotate
+            style="width:100%; height: 500px;">
+        </model-viewer>
+    </main>
+
+    <footer>
+        <small>
+            &copy; 2023 -
+            <script>document.write(new Date().getFullYear());</script> Tomoo Ito
+        </small>
+    </footer>
+</body>
+
+</html>
