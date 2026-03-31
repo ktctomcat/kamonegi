@@ -2,13 +2,13 @@
   "type": "scene",
   "properties": {
     "baseExtent": {
-      "cx": 40517.237522667085,
-      "cy": 196700.58490704486,
-      "width": 13194.276093013992,
-      "height": 13194.276093013992,
+      "cx": 40642.17042492615,
+      "cy": 196701.71222539747,
+      "width": 13264.883210925094,
+      "height": 13264.883210925094,
       "rotation": 0
     },
-    "origin": { "x": 40517.237522667085, "y": 196700.58490704486, "z": 0.0 },
+    "origin": { "x": 40642.17042492615, "y": 196701.71222539747, "z": 0.0 },
     "zScale": 1.0,
     "light": "directional"
   },
@@ -144,11 +144,20 @@
         "clickable": true,
         "visible": true,
         "type": "polygon",
-        "objType": "Polygon"
+        "objType": "Polygon",
+        "label": {
+          "relative": true,
+          "font": "sans-serif",
+          "size": -15,
+          "color": "rgb(0,0,0)",
+          "olcolor": "rgb(255,255,255)",
+          "bgcolor": "rgba(255,255,255,0.69)",
+          "cncolor": 12632272
+        }
       },
       "body": {
         "materials": [{ "type": 0, "c": 9993655, "flat": 1, "ds": 1 }],
-        "blocks": [{ "url": "./data/katahigashi/c0.json", "featureCount": 15 }]
+        "blocks": [{ "url": "./data/katahigashi/c0.json", "featureCount": 14 }]
       }
     },
     {
@@ -163,7 +172,7 @@
         "label": {
           "relative": true,
           "font": "sans-serif",
-          "size": -12,
+          "size": -15,
           "color": "rgb(0,0,0)",
           "olcolor": "rgb(255,255,255)",
           "bgcolor": "rgba(255,255,255,0.69)",
@@ -187,7 +196,7 @@
         "label": {
           "relative": true,
           "font": "sans-serif",
-          "size": -12,
+          "size": -15,
           "color": "rgb(0,0,0)",
           "olcolor": "rgb(255,255,255)",
           "bgcolor": "rgba(255,255,255,0.69)",
@@ -211,7 +220,7 @@
         "label": {
           "relative": true,
           "font": "sans-serif",
-          "size": -12,
+          "size": -15,
           "color": "rgb(0,0,0)",
           "olcolor": "rgb(255,255,255)",
           "bgcolor": "rgba(255,255,255,0.69)",
@@ -235,7 +244,7 @@
         "label": {
           "relative": true,
           "font": "sans-serif",
-          "size": -12,
+          "size": -15,
           "color": "rgb(0,0,0)",
           "olcolor": "rgb(255,255,255)",
           "bgcolor": "rgba(255,255,255,0.69)",
