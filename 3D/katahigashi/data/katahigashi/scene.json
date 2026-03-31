@@ -2,13 +2,13 @@
   "type": "scene",
   "properties": {
     "baseExtent": {
-      "cx": 40715.9887259514,
-      "cy": 196688.42085444886,
-      "width": 13079.803639218473,
-      "height": 13079.803639218473,
+      "cx": 41259.53428119072,
+      "cy": 196649.52136522182,
+      "width": 13079.803639223377,
+      "height": 13079.803639223377,
       "rotation": 0
     },
-    "origin": { "x": 40715.9887259514, "y": 196688.42085444886, "z": 0.0 },
+    "origin": { "x": 41259.53428119072, "y": 196649.52136522182, "z": 0.0 },
     "zScale": 1.0,
     "light": "directional"
   },
@@ -280,7 +280,7 @@
           { "url": "./data/katahigashi/h78.json", "featureCount": 50 },
           { "url": "./data/katahigashi/h79.json", "featureCount": 50 },
           { "url": "./data/katahigashi/h80.json", "featureCount": 50 },
-          { "url": "./data/katahigashi/h81.json", "featureCount": 26 }
+          { "url": "./data/katahigashi/h81.json", "featureCount": 22 }
         ]
       }
     },
