@@ -183,7 +183,7 @@
           { "url": "./data/katahigashi/g1.json", "featureCount": 50 },
           { "url": "./data/katahigashi/g2.json", "featureCount": 50 },
           { "url": "./data/katahigashi/g3.json", "featureCount": 50 },
-          { "url": "./data/katahigashi/g4.json", "featureCount": 23 }
+          { "url": "./data/katahigashi/g4.json", "featureCount": 25 }
         ]
       }
     },
@@ -273,7 +273,7 @@
           { "url": "./data/katahigashi/h70.json", "featureCount": 50 },
           { "url": "./data/katahigashi/h71.json", "featureCount": 50 },
           { "url": "./data/katahigashi/h72.json", "featureCount": 50 },
-          { "url": "./data/katahigashi/h73.json", "featureCount": 21 }
+          { "url": "./data/katahigashi/h73.json", "featureCount": 19 }
         ]
       }
     },
