@@ -34,7 +34,7 @@
       },
       "body": {
         "materials": [{ "type": 0, "c": 13382400, "flat": 1, "ds": 1 }],
-        "blocks": [{ "url": "./data/katahigashi/a0.json", "featureCount": 33 }]
+        "blocks": [{ "url": "./data/katahigashi/a0.json", "featureCount": 39 }]
       }
     },
     {
@@ -183,7 +183,7 @@
           { "url": "./data/katahigashi/g1.json", "featureCount": 50 },
           { "url": "./data/katahigashi/g2.json", "featureCount": 50 },
           { "url": "./data/katahigashi/g3.json", "featureCount": 50 },
-          { "url": "./data/katahigashi/g4.json", "featureCount": 22 }
+          { "url": "./data/katahigashi/g4.json", "featureCount": 23 }
         ]
       }
     },
@@ -273,7 +273,7 @@
           { "url": "./data/katahigashi/h70.json", "featureCount": 50 },
           { "url": "./data/katahigashi/h71.json", "featureCount": 50 },
           { "url": "./data/katahigashi/h72.json", "featureCount": 50 },
-          { "url": "./data/katahigashi/h73.json", "featureCount": 28 }
+          { "url": "./data/katahigashi/h73.json", "featureCount": 21 }
         ]
       }
     },
