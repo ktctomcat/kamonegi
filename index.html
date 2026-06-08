@@ -56,41 +56,35 @@
 
         <h1>かもん！カモねぎくん</h1>
         <p>
-            ようこそ「かもん！カモねぎくん」のページへ！
+            ようこそ、「かもん！カモねぎくん」のページへ。<br>
+            ここでは「かもん！カモねぎまつり」の情報や、キャラクター「カモねぎくん」に関する画像データを公開しています。
         </p>
-        <p>
-            <span id="greetingMessage"></span>ここは「かもん！カモねぎまつり」の情報やキャラクターの「カモねぎくん」に関連する画像データ等を公開しているサイトです。
-        </p>
-        <script>
-            function getGreetingMessage() {
-                const hour = new Date().getHours();
-                if (hour >= 5 && hour < 12) {
-                    return "おはようございます、";
-                } else if (hour >= 12 && hour < 18) {
-                    return "こんにちは、";
-                } else {
-                    return "こんばんは、";
-                }
-            }
-            // ページ読み込み後に挨拶を反映
-            document.addEventListener("DOMContentLoaded", () => {
-                document.getElementById("greetingMessage").textContent = getGreetingMessage();
-            });
-        </script>
 
-        <figure>
-            <img src="img/kamonegikun/kamonegikun-rev305-color.svg" alt="カモねぎくんの画像" loading="lazy" decoding="async">
-        </figure>
+        <h2>新着情報</h2>
+        <ul>
+            <li><time>2026-06-08</time> <a href="https://www.roblox.com/ja/games/71921737581560/XR">
+                    XR 三方山 Experience</a>を更新</li>
+            <li><time>2026-05-24</time> <a href="information.html#kirisitauba">キリシタ姥のお地蔵様</a>を掲載</li>
+            <li><time>2026-03-29</time> <a href="./3D/katahigashi/katahigashi.html">潟東地域3Dマップ</a>のページを追加</li>
+            <li><time>2026-03-27</time> <a href="graphic.html#xr-sanbouyama">XR 三方山プロジェクト</a>を追加</li>
+        </ul>
+
+        <h2>ご利用について</h2>
         <p>
             公開している画像データ等は、個人利用・商用利用を問わず、無料でご利用いただけます。<br>
             画像データ等は<a href="graphic.html">展示室のページ</a>からダウンロードできます！
         </p>
+
+        <figure>
+            <img src="img/kamonegikun/kamonegikun-rev305-color.svg" alt="カモねぎくんの画像" loading="lazy" decoding="async">
+        </figure>
 
         <h2>かもん！カモねぎまつりとは？</h2>
         <p>
             かもん！カモねぎまつりは、新潟市西蒲区潟東地域で毎年12月の第一日曜日に行われているイベントです。<br>
             ネギなどの冬野菜の販売や飲食物の販売、キッチンカーなどの出店もあります。
         </p>
+
         <!--
         <figure>
             <img src="img/photo/fes/photo-fes2004-001.jpg" alt="かもん！カモねぎまつりの様子" loading="lazy" decoding="async">
