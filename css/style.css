@@ -47,6 +47,14 @@ h4 {
   padding-left: 5px;
 }
 
+/* 強調表示 */
+.key-point {
+  margin: 1.2em 0;
+  padding: 0.6em 1em;
+  border-left: 4px solid #00cc00;
+  background-color: #f4fff4;
+}
+
 /* リンクの基本スタイル */
 a {
   color: #00cc00;
