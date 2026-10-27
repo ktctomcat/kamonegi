@@ -244,15 +244,15 @@ header p {
 }
 
 /* 区切り文字 */
-.breadcrumbs li::after {
+.breadcrumbs li + li::before {
   content: ">";
   padding: 0 0.5em;
 }
 
 /* 最後の区切り文字を消す */
-.breadcrumbs li:last-child::after {
+/*.breadcrumbs li:last-child::after {
   display: none;
-}
+} */
 
 /* メイン */
 main {
