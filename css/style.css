@@ -246,7 +246,7 @@ header p {
 /* 区切り文字 */
 .breadcrumbs li + li::before {
   content: ">";
-  padding: 0 0.5em;
+  padding: 0 0;
 }
 
 /* 最後の区切り文字を消す */
