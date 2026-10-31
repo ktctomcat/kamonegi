@@ -67,6 +67,19 @@
         </ul>
 
         <h2 id="blog">カモねぎくんの独り言</h2>
+        <script>
+            (function () {
+                const images = [];
+                for (let i = 1; i <= 10; i++) {
+                    // 3桁ゼロ埋め (001, 002, …)
+                    const num = String(i).padStart(3, '0');
+                    images.push(`/img/photo/blog/top-img-${num}.jpg`);
+                }
+
+                const pick = images[Math.floor(Math.random() * images.length)];
+                document.getElementById('rand-img').src = pick;
+            })();
+        </script>
         <p>カモねぎくんが日々感じたことを、気ままにつづっています。</p>
         <ul>
             <!-- <li><a href="blog-005.html">忌野清志郎が58歳で残したもの</a></li> -->
