@@ -250,7 +250,7 @@ header p {
 }
 
 /* 横並びリスト */
-.inline ol {
+.inline ul {
   margin: 0;
   padding: 0;
 }
