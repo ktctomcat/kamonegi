@@ -249,7 +249,24 @@ header p {
   padding: 0 0.5em;
 }
 
- /* ブログの掲載日・更新日 */
+/* 横並びリスト */
+.inline ol {
+  margin: 0;
+  padding: 0;
+}
+
+/* リストを横並びにする */
+.inline li {
+  display: inline;
+}
+
+/* 区切り文字 */
+.inline li + li::before {
+  content: "/";
+  padding: 0 0.5em;
+}
+
+/* ブログの掲載日・更新日 */
 .post-meta {
     font-size: 0.85rem;
     margin-top: -0.5rem;
