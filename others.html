@@ -67,13 +67,14 @@
         </ul>
 
         <h2 id="blog">カモねぎくんの独り言</h2>
+        <img id="rand-img" alt="カモねぎくんのブログ記事の画像" loading="lazy" decoding="async">
         <script>
             (function () {
                 const images = [];
                 for (let i = 1; i <= 10; i++) {
                     // 3桁ゼロ埋め (001, 002, …)
                     const num = String(i).padStart(3, '0');
-                    images.push(`/img/photo/blog/top-img-${num}.jpg`);
+                    images.push(`img/photo/blog/top-img-${num}.jpg`);
                 }
 
                 const pick = images[Math.floor(Math.random() * images.length)];
