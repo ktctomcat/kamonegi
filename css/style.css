@@ -25,21 +25,18 @@ h1 {
   font-family: "M PLUS Rounded 1c", sans-serif;
   font-weight: 700;
 }
-
 h2 {
   line-height: 1.2;
   background-color: #ccffcc;
   padding: 5px;
   border-radius: 10px;
 }
-
 h3 {
   line-height: 1.4;
   border-bottom-color: #00cc00;
   border-bottom-style: solid;
   border-bottom-width: 2px;
 }
-
 h4 {
   line-height: 1.4;
   color: #00cc00;
@@ -59,22 +56,18 @@ h4 {
 a {
   color: #00cc00;
 }
-
 /* 未訪問リンク */
 a:link {
   color: #00cc00;
 }
-
 /* 訪問済みリンク */
 a:visited {
   color: #666666;
 }
-
 /* アクティブ時（クリック中） */
 a:active {
   color: #00cc00;
 }
-
 /* ホバー時（マウスオーバー時） */
 a:hover {
   border-radius: 6px;
@@ -107,7 +100,6 @@ img {
 .side {
   display: flex;
 }
-
 /* 画像を横並びに表示する場合は50% */
 .side img {
   width: 50%;
@@ -149,7 +141,6 @@ header {
   padding: 0;
   height: 100px;
 }
-
 /* ヘッダー内の p を非表示にする */
 header p {
   margin: 0;
@@ -168,7 +159,6 @@ header p {
   top: 0;
   z-index: 10;
 }
-
 /* ナビゲーションリストを横並びにする */
 .global-nav ul {
   max-width: 400px;
@@ -177,7 +167,6 @@ header p {
   /* 0は左寄せ、センターリングはauto */
   padding: 0;
 }
-
 /* ナビゲーションリストの各項目 */
 .global-nav li {
   padding-top: 0.5em;
@@ -190,40 +179,33 @@ header p {
   border-top-right-radius: 12px;
   border-top-left-radius: 12px;
 }
-
 /* 最後の li の右側 */
 .global-nav ul li:last-child {
   border-right: #ffffff 1px solid;
 }
-
 /* リンク色 */
 .global-nav ul li a {
   color: #ffffff;
   text-decoration: none;
 }
-
 /* 現在のページ色（li を指定しないと効かない） */
 .global-nav li.current {
   background-color: #ffffff;
 }
-
 /* 現在のページ色のリンク */
 .global-nav li.current a {
   color: #333333;
   font-weight: bolder;
 }
-
 /* マウスが乗ったときの色 */
 .global-nav ul li:hover {
   background-color: #ffff00;
 }
-
 /* マウスが乗ったときのリンク色 */
 .global-nav ul li a:hover {
   color: #333333;
   font-weight: bolder;
 }
-
 /* ナビゲーションのアニメーション */
 .global-nav ul li,
 .global-nav ul li a {
@@ -247,7 +229,7 @@ header p {
   padding: 0 0.5em;
 }
 
-/* 横並びリスト */
+/* リストを横並びにする場合 */
 .inline ul {
   margin: 0;
   padding: 0;
@@ -289,7 +271,7 @@ main {
   z-index: 1;
 }
 
-/* アンカーリンクのスクロール位置調整 */
+/* アンカーリンクのスクロール位置調整（※重要！） */
 :target {
   scroll-margin-top: 50px;
   /* 固定ヘッダー分の余白 */
@@ -307,7 +289,12 @@ main {
   list-style-type: none;
   /* マークを消す */
 }
-
+.contact li {
+  display: inline-block;
+  /* 横並びにする */
+  margin-right: 1em;
+  /* アイコンの間隔 */
+}
 /* 連絡先アイコンとリンクの間隔 */
 .contact a {
   margin-left: 0.5em;
