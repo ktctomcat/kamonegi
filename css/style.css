@@ -289,12 +289,6 @@ main {
   list-style-type: none;
   /* マークを消す */
 }
-.contact li {
-  display: inline-block;
-  /* 横並びにする */
-  margin-right: 1em;
-  /* アイコンの間隔 */
-}
 /* 連絡先アイコンとリンクの間隔 */
 .contact a {
   margin-left: 0.5em;
@@ -361,5 +355,13 @@ footer {
     margin: 0;
     /* 0は左寄せ、センターリングはauto */
     margin-left: 1em;
+  }
+
+  /* 連絡先リスト */
+  .contact li {
+    display: inline-block;
+    /* 横並びにする */
+    margin-right: 1em;
+    /* アイコンの間隔 */
   }
 }
