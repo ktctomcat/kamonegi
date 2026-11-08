@@ -87,20 +87,22 @@
         </figure>
         -->
 
-        <img id="rand-img" alt="ランダムに表示されるかもん！カモねぎまつりの画像" loading="lazy" decoding="async">
-        <script>
-            (function () {
-                const images = [];
-                for (let i = 1; i <= 30; i++) {
-                    // 3桁ゼロ埋め (001, 002, …)
-                    const num = String(i).padStart(3, '0');
-                    images.push(`img/photo/fes2025/photo-fes2025-${num}.jpg`);
-                }
+        <figure>
+            <img id="rand-img" alt="ランダムに表示されるかもん！カモねぎまつりの画像" loading="lazy" decoding="async">
+            <script>
+                (function () {
+                    const images = [];
+                    for (let i = 1; i <= 30; i++) {
+                        // 3桁ゼロ埋め (001, 002, …)
+                        const num = String(i).padStart(3, '0');
+                        images.push(`img/photo/fes2025/photo-fes2025-${num}.jpg`);
+                    }
 
-                const pick = images[Math.floor(Math.random() * images.length)];
-                document.getElementById('rand-img').src = pick;
-            })();
-        </script>
+                    const pick = images[Math.floor(Math.random() * images.length)];
+                    document.getElementById('rand-img').src = pick;
+                })();
+            </script>
+        </figure>
         <p>
             新潟市西蒲区の潟東地域には、かつて鎧潟という潟湖がありました。この地域では昔から鴨猟が行われており、毎年11月15日に猟が解禁されます。<br>
             冬に飛来する野ガモが旬を迎える時期に、天然の野鴨を使ったカモ汁をぜひご賞味ください。<br>
