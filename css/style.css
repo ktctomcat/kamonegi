@@ -85,18 +85,12 @@ dt {
   font-weight: bold;
 }
 
-/* 画像の基本スタイル */
+/* 画像枠の基本スタイル */
 figure {
   margin: 0;
   display: flex;
   border-radius: 12px;
   overflow: hidden; /* 画像の角をきれいに丸めるため */
-}
-
-/* 下側の丸めを解除 */
-.top {
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
 }
 
 /* 通常の画像は100% */
@@ -105,14 +99,38 @@ img {
 }
 
 /* 画像を横並びに表示する場合は50% */
-.row img {
+.row img,
+.row-top img,
+.row-middle img,
+.row-bottom img {
   width: 50%;
+}
+
+/* 下側の丸めを解除 */
+.top,
+.row-top {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+/* 上下の丸めを解除 */
+.middle,
+.row-middle {
+  border-radius: 0;
+}
+
+/* 上側の丸めを解除 */
+.bottom,
+.row-bottom {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
 }
 
 /* iframe */
 iframe {
   border: 0;
   width: 100%;
+  border-radius: 12px;
   aspect-ratio: 16/9;
 }
 
@@ -122,6 +140,7 @@ model-viewer {
   width: 100%;
   height: 400px;
   display: block;
+  border-radius: 12px;
   /* aspect-ratio: 16/9; */
 }
 
