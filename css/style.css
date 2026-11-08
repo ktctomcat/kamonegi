@@ -89,19 +89,23 @@ dt {
 figure {
   margin: 0;
   display: flex;
+  border-radius: 12px;
+  overflow: hidden; /* 画像の角をきれいに丸めるため */
 }
 
-/* 画像を縦に並べる場合 */
+/* 下側の丸めを解除 */
+.top {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+/* 通常の画像は100% */
 img {
   width: 100%;
 }
 
-/* 画像を横並びに表示する場合 */
-.side {
-  display: flex;
-}
 /* 画像を横並びに表示する場合は50% */
-.side img {
+.row img {
   width: 50%;
 }
 
