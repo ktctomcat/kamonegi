@@ -153,8 +153,8 @@ header {
   background-color: #ffff00;
   color: #ffffff;
   background-image:
-    url(../img/kamonegikun-title-left-S.svg),
-    url(../img/kamonegikun-title-right-S.svg);
+    url(../images/backgrounds/kamonegikun-title-left-S.svg),
+    url(../images/backgrounds/kamonegikun-title-right-S.svg);
   background-position:
     left top,
     right top;
@@ -277,7 +277,8 @@ header p {
 /* メイン */
 main {
   background-image:
-    url(../img/kakudayama-back.svg), url(../img/kamonegikun-footprints.svg);
+    url(../images/backgrounds/kakudayama-back.svg),
+    url(../images/backgrounds/kamonegikun-footprints.svg);
   background-position:
     left bottom,
     right top;
@@ -349,8 +350,8 @@ footer {
   /* ヘッダー */
   header {
     background-image:
-      url(../img/kamonegikun-title-left-L.svg),
-      url(../img/kamonegikun-title-right-L.svg);
+      url(../images/backgrounds/kamonegikun-title-left-L.svg),
+      url(../images/backgrounds/kamonegikun-title-right-L.svg);
     /* 大きい画像に変更 */
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
